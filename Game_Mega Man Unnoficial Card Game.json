@@ -46,14 +46,7 @@
         "drawPerTurn": "0"
       },
       "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "",
-          "image": "",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
         0
       ],

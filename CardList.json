@@ -1,0 +1,1480 @@
+{
+  "SD01-01": {
+    "id": "SD01-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Light's Laboratory",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-01%20Dr.%20Light's%20Laboratory.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Light's Laboratory",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "32",
+    "Traits": [
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ]
+  },
+  "SD01-02": {
+    "id": "SD01-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beat",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-02%20Beat.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beat",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Beat Barrier"
+  },
+  "SD01-03": {
+    "id": "SD01-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-03%20Rock.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "2",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Lab Assistant"
+  },
+  "SD01-04": {
+    "id": "SD01-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roll",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-04%20Roll.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roll",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Tidying Up"
+  },
+  "SD01-05": {
+    "id": "SD01-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tango",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-05%20Tango.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tango",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Rolling Bash"
+  },
+  "SD01-06": {
+    "id": "SD01-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rush",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-06%20Rush.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rush",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Rush Coil"
+  },
+  "SD01-07": {
+    "id": "SD01-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eddie",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-07%20Eddie.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eddie",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Eddie's Delivery Service"
+  },
+  "SD01-08": {
+    "id": "SD01-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proto Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-08%20Proto%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proto Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "6",
+    "Traits": [
+      "Robot"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Unstable Charge Shot"
+  },
+  "SD01-09": {
+    "id": "SD01-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mega Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-09%20Mega%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Charge Shot"
+  },
+  "SD01-10": {
+    "id": "SD01-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guts Man",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-10%20Guts%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guts Man",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Traits": [
+      "Robot",
+      "Robot Masters"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Super Arm"
+  },
+  "SD01-11": {
+    "id": "SD01-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duo",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-11%20Duo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duo",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Traits": [
+      "Robot"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Energy Fist"
+  },
+  "SD01-12": {
+    "id": "SD01-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Auto",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-12%20Auto.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Auto",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Robot",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Auto's Shop"
+  },
+  "SD01-13": {
+    "id": "SD01-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Light",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Aqua-2033/Custom-MMUCG-Stuff/54d99ff401dc73547ca6bff29878134a6f244309/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-13%20Dr.%20Light.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Light",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Human",
+      "Dr. Light's Lab"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Routine Maintenance"
+  },
+  "SD01-14": {
+    "id": "SD01-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Cossack",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-14%20Dr.%20Cossack.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Cossack",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": 0,
+    "Traits": [
+      "Human",
+      "Cossack Citadel"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Cossack Catcher"
+  },
+  "SD01-15": {
+    "id": "SD01-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Life Energy",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-15%20Life%20Energy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Energy",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Consumable",
+      "Robot Era"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Life Energy"
+  },
+  "SD01-16": {
+    "id": "SD01-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energy Balancer",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-16%20Energy%20Balancer.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energy Balancer",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": 0,
+    "Traits": [
+      "Parts",
+      "Robot Era"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Energy Balancer"
+  },
+  "SD01-17": {
+    "id": "SD01-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Weapon Energy",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-17%20Weapon%20Energy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Weapon Energy",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": 0,
+    "Traits": [
+      "Consumable",
+      "Robot Era"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Weapon Energy"
+  },
+  "SD01-18": {
+    "id": "SD01-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energy Tank",
+        "type": "Item",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD01%20-%20Blue%20Bomber/SD01-18%20Energy%20Tank.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energy Tank",
+    "type": "Item",
+    "cost": "6",
+    "Integrity": 0,
+    "Traits": [
+      "Consumable",
+      "Robot Era"
+    ],
+    "Set": "SD01 - Blue Bomber",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": "Energy Tank"
+  },
+  "Token001": {
+    "id": "Token001",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Stone Cube",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Stone%20Cube%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stone Cube",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "6",
+    "Traits": false,
+    "Element": [
+      "Neutral"
+    ]
+  },
+  "SD02-01": {
+    "id": "SD02-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volcano",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-01%20Volcano.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Volcano",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "32",
+    "Traits": false,
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames"
+  },
+  "SD02-02": {
+    "id": "SD02-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Changkey",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-02%20Changkey.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Changkey",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Traits": [
+      "Robot"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Changkey Jump"
+  },
+  "SD02-03": {
+    "id": "SD02-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morgun",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-03%20Morgun.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morgun",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Traits": [
+      "Mechaniloid"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Fire Ball"
+  },
+  "SD02-04": {
+    "id": "SD02-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flamer",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-04%20Flamer.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamer",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Traits": [
+      "Mechaniloid"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Flamethrower Turret"
+  },
+  "SD02-05": {
+    "id": "SD02-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "VolGear",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-05%20VolGear.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "VolGear",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Traits": [
+      "Virus"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "B. Chip: Fire Tower"
+  },
+  "SD02-06": {
+    "id": "SD02-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fishy",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-06%20Fishy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fishy",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Traits": [
+      "Virus"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "B. Chip: Burner"
+  },
+  "SD02-07": {
+    "id": "SD02-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Changkey Maker",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-07%20Changkey%20Maker.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Changkey Maker",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Traits": [
+      "Robot"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Changkey Throw"
+  },
+  "SD02-08": {
+    "id": "SD02-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-08%20Fire%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fire Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Traits": [
+      "Robot",
+      "Robot Masters"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Fire Storm"
+  },
+  "SD02-09": {
+    "id": "SD02-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "HeatMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-09%20HeatMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "HeatMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Traits": [
+      "Net Navi",
+      "World Three"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Heat Press"
+  },
+  "SD02-10": {
+    "id": "SD02-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "TurboMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-10%20TurboMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "TurboMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Traits": [
+      "Net Navi"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Turbo Wheel"
+  },
+  "SD02-11": {
+    "id": "SD02-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magma Dragoon",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-11%20Magma%20Dragoon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magma Dragoon",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Traits": [
+      "Reploid",
+      "Maverick",
+      "Maverick Hunters",
+      "Repliforce"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Rising Fire"
+  },
+  "SD02-12": {
+    "id": "SD02-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iris",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-12%20Iris.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iris",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Reploid",
+      "Maverick Hunters",
+      "Repliforce"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Army Operator"
+  },
+  "SD02-13": {
+    "id": "SD02-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kai Todoroki",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-13%20Kai%20Todoroki.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kai Todoroki",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Human",
+      "Net Op"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "B. Chip: Blower"
+  },
+  "SD02-14": {
+    "id": "SD02-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Match",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Aqua-2033/Custom-MMUCG-Stuff/5dabae681cc21ccd80a2dbe4678e12ffe5574ccd/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-14%20Mr.%20Match.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Match",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Human",
+      "Net Op",
+      "World Three"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "B. Chip: Fire +20"
+  },
+  "SD02-15": {
+    "id": "SD02-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Item-1",
+        "type": "Item",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-15%20Item-1.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Item-1",
+    "type": "Item",
+    "cost": "1",
+    "Integrity": 0,
+    "Traits": [
+      "Transportation",
+      "Robot Era"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Item-1"
+  },
+  "SD02-16": {
+    "id": "SD02-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saber Extend",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-16%20Saber%20Extend.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saber Extend",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Parts",
+      "Reploid Era"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Saber Extend"
+  },
+  "SD02-17": {
+    "id": "SD02-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buster Plus",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-17%20Buster%20Plus.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buster Plus",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": 0,
+    "Traits": [
+      "Parts",
+      "Reploid Era"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Buster Plus"
+  },
+  "SD02-18": {
+    "id": "SD02-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heat Armor",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD02%20-%20Bursting%20Flames/SD02-18%20Heat%20Armor.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heat Armor",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Program",
+      "Navi Era"
+    ],
+    "Element": [
+      "Fire"
+    ],
+    "Set": "SD02 - Bursting Flames",
+    "Skill/Equip Name": "Heat Armor"
+  },
+  "SD03-01": {
+    "id": "SD03-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power Plant Comp",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-01%20Power%20Plant%20Comp.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Power Plant Comp",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "32",
+    "Traits": false,
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lighting Battle"
+  },
+  "SD03-02": {
+    "id": "SD03-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Telly",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-02%20Telly.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Telly",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Traits": [
+      "Robot"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Telly Swarm"
+  },
+  "SD03-03": {
+    "id": "SD03-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gun Volt",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-03%20Gun%20Volt.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gun Volt",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Traits": [
+      "Mechaniloid"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Missile & Spark"
+  },
+  "SD03-04": {
+    "id": "SD03-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elec'n",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-04%20Elec'n.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elec'n",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Traits": [
+      "Robot"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Spread Spark"
+  },
+  "SD03-05": {
+    "id": "SD03-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wall Cancer",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-05%20Wall%20Cancer.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wall Cancer",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Traits": [
+      "Mechaniloid"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Energy Balls"
+  },
+  "SD03-06": {
+    "id": "SD03-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Billy",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-06%20Billy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Billy",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Traits": [
+      "Virus"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lighting Battle",
+    "Skill/Equip Name": "B. Chip: Thunder"
+  },
+  "SD03-07": {
+    "id": "SD03-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Twisty",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-07%20Twisty.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Twisty",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Traits": [
+      "Virus"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "B. Chip: Remobit"
+  },
+  "SD03-08": {
+    "id": "SD03-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flash Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-08%20Flash%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flash Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "7",
+    "Traits": [
+      "Robot",
+      "Robot Masters"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Time Stopper"
+  },
+  "SD03-09": {
+    "id": "SD03-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ring.EXE",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-09%20Ring.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ring.EXE",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Traits": [
+      "Net Navi"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Ring Rang"
+  },
+  "SD03-10": {
+    "id": "SD03-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spark Mandrill",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-10%20Spark%20Mandrill.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spark Mandrill",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Traits": [
+      "Reploid",
+      "Maverick",
+      "Maverick Hunters",
+      "Sigma's Rebellion"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Electrick Spark"
+  },
+  "SD03-11": {
+    "id": "SD03-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ElecMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-11%20ElecMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "ElecMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Traits": [
+      "Net Navi",
+      "World Three"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Sequence Bolt"
+  },
+  "SD03-12": {
+    "id": "SD03-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Count Zap",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-12%20Count%20Zap.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Count Zap",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Human",
+      "Net Op",
+      "World Three"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "B. Chip: Elec +10"
+  },
+  "SD03-13": {
+    "id": "SD03-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Doppler",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-13%20Dr.%20Doppler.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Doppler",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Reploid",
+      "Maverick",
+      "Doppler Army"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Attack Absorb"
+  },
+  "SD03-14": {
+    "id": "SD03-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mary Towa",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-14%20Mary%20Towa.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mary Towa",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Human",
+      "Net Op"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "B. Chip: Aluminum Line"
+  },
+  "SD03-15": {
+    "id": "SD03-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Capsule",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-15%20White%20Capsule.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "White Capsule",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Battle Chip",
+      "Navi Era"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "B. Chip: White Capsule"
+  },
+  "SD03-16": {
+    "id": "SD03-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyper Charge",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-16%20Hyper%20Charge.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyper Charge",
+    "type": "Item",
+    "cost": "4",
+    "Integrity": 0,
+    "Traits": [
+      "Parts",
+      "Reploid Era"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Hyper Charge"
+  },
+  "SD03-17": {
+    "id": "SD03-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elec Armor",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-17%20Elec%20Armor.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elec Armor",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": 0,
+    "Traits": [
+      "Program",
+      "Navi Era"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Elec Armor"
+  },
+  "SD03-18": {
+    "id": "SD03-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magnet Beam",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/SD03%20-%20Lightning%20Battle/SD03-18%20Magnet%20Beam.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magnet Beam",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": 0,
+    "Traits": [
+      "Transportation",
+      "Robot Era"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "SD03 - Lightning Battle",
+    "Skill/Equip Name": "Magnet Beam"
+  },
+  "Token002": {
+    "id": "Token002",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Telly",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Telly%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Telly",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "1",
+    "Traits": [
+      "Robot"
+    ],
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "",
+    "Skill/Equip Name": ""
+  },
+  "Token003": {
+    "id": "Token003",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Remobit",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Remobit%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remobit",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "1",
+    "Traits": [
+      "Virus"
+    ],
+    "Element": [
+      "Elec"
+    ],
+    "Set": "",
+    "Skill/Equip Name": ""
+  },
+  "Token004": {
+    "id": "Token004",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Aluminum Panel",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Aluminum%20Panel%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aluminum Panel",
+    "type": false,
+    "cost": 0,
+    "Integrity": 0,
+    "Traits": false,
+    "Element": false,
+    "Set": "",
+    "Skill/Equip Name": ""
+  }
+}

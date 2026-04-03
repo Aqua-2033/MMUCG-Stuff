@@ -25,7 +25,8 @@
         "title": "Classic",
         "gameplay": "Standard Rule Set",
         "customCategories": [
-          "Extra_Folder"
+          "Extra_Folder",
+          "Stage"
         ]
       }
     ]
@@ -828,6 +829,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Operator Loaded 4",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stage": {
+            "title": "Stage",
+            "isHidden": "opponent-only",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Stage",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,

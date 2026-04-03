@@ -185,8 +185,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "\"Stage\"->\"Stage_Panel\"",
-          "\"Extra Folder\"->\"Extra_Folder\""
+          "Stage->Stage_Panel",
+          "Extra Folder->Extra_Folder"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},

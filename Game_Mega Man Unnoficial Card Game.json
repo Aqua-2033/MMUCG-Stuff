@@ -31,7 +31,7 @@
         ]
       }
     ],
-    "deckRuleset": {
+    "deckRulesets": {
       "Classic": {
         "general": {
           "min": 60,
@@ -45,7 +45,7 @@
             "max": 1
           },
           {
-            "category": "Extra Folder"
+            "category": "Extra Folder",
             "min": 0,
             "max": 20,
             "maxPerCard": 4

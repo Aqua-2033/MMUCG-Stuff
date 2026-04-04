@@ -33,7 +33,7 @@
     ],
     "deckRulesets": {
       "Classic": {
-        "General": {
+        "general": {
           "min": 60,
           "max": 60,
           "maxPerCard": 4

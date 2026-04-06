@@ -15,13 +15,11 @@
     "type": "Stage",
     "cost": 0,
     "Integrity": "32",
-    "Traits": [
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
-    ]
+    ],
+    "Traits": "Dr. Light's Lab"
   },
   "SD01-02": {
     "id": "SD01-02",
@@ -39,15 +37,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Beat Barrier"
+    "Skill/Equip Name": "Beat Barrier",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-03": {
     "id": "SD01-03",
@@ -65,15 +60,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "2",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Lab Assistant"
+    "Skill/Equip Name": "Lab Assistant",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-04": {
     "id": "SD01-04",
@@ -91,15 +83,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "3",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Tidying Up"
+    "Skill/Equip Name": "Tidying Up",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-05": {
     "id": "SD01-05",
@@ -117,15 +106,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Rolling Bash"
+    "Skill/Equip Name": "Rolling Bash",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-06": {
     "id": "SD01-06",
@@ -143,15 +129,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "5",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Rush Coil"
+    "Skill/Equip Name": "Rush Coil",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-07": {
     "id": "SD01-07",
@@ -169,15 +152,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "6",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Eddie's Delivery Service"
+    "Skill/Equip Name": "Eddie's Delivery Service",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-08": {
     "id": "SD01-08",
@@ -195,14 +175,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "6",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Unstable Charge Shot"
+    "Skill/Equip Name": "Unstable Charge Shot",
+    "Traits": "Robot"
   },
   "SD01-09": {
     "id": "SD01-09",
@@ -220,15 +198,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Charge Shot"
+    "Skill/Equip Name": "Charge Shot",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-10": {
     "id": "SD01-10",
@@ -246,15 +221,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Super Arm"
+    "Skill/Equip Name": "Super Arm",
+    "Traits": "Robot | Robot Masters"
   },
   "SD01-11": {
     "id": "SD01-11",
@@ -272,14 +244,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Energy Fist"
+    "Skill/Equip Name": "Energy Fist",
+    "Traits": "Robot"
   },
   "SD01-12": {
     "id": "SD01-12",
@@ -297,15 +267,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Auto's Shop"
+    "Skill/Equip Name": "Auto's Shop",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "SD01-13": {
     "id": "SD01-13",
@@ -323,15 +290,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Human",
-      "Dr. Light's Lab"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Routine Maintenance"
+    "Skill/Equip Name": "Routine Maintenance",
+    "Traits": "Human | Dr. Light's Lab"
   },
   "SD01-14": {
     "id": "SD01-14",
@@ -349,15 +313,12 @@
     "type": "Operator",
     "cost": "3",
     "Integrity": 0,
-    "Traits": [
-      "Human",
-      "Cossack Citadel"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Cossack Catcher"
+    "Skill/Equip Name": "Cossack Catcher",
+    "Traits": "Human | Cossack Citadel"
   },
   "SD01-15": {
     "id": "SD01-15",
@@ -375,15 +336,12 @@
     "type": "Item",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Consumable",
-      "Robot Era"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Life Energy"
+    "Skill/Equip Name": "Life Energy",
+    "Traits": "Consumable | Robot Era"
   },
   "SD01-16": {
     "id": "SD01-16",
@@ -401,15 +359,12 @@
     "type": "Item",
     "cost": "3",
     "Integrity": 0,
-    "Traits": [
-      "Parts",
-      "Robot Era"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Energy Balancer"
+    "Skill/Equip Name": "Energy Balancer",
+    "Traits": "Parts | Robot Era"
   },
   "SD01-17": {
     "id": "SD01-17",
@@ -427,15 +382,12 @@
     "type": "Item",
     "cost": "3",
     "Integrity": 0,
-    "Traits": [
-      "Consumable",
-      "Robot Era"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Weapon Energy"
+    "Skill/Equip Name": "Weapon Energy",
+    "Traits": "Consumable | Robot Era"
   },
   "SD01-18": {
     "id": "SD01-18",
@@ -453,15 +405,12 @@
     "type": "Item",
     "cost": "6",
     "Integrity": 0,
-    "Traits": [
-      "Consumable",
-      "Robot Era"
-    ],
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Energy Tank"
+    "Skill/Equip Name": "Energy Tank",
+    "Traits": "Consumable | Robot Era"
   },
   "Token001": {
     "id": "Token001",
@@ -522,14 +471,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Robot"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Changkey Jump"
+    "Skill/Equip Name": "Changkey Jump",
+    "Traits": "Robot"
   },
   "SD02-03": {
     "id": "SD02-03",
@@ -547,14 +494,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Fire Ball"
+    "Skill/Equip Name": "Fire Ball",
+    "Traits": "Mechaniloid"
   },
   "SD02-04": {
     "id": "SD02-04",
@@ -572,14 +517,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Flamethrower Turret"
+    "Skill/Equip Name": "Flamethrower Turret",
+    "Traits": "Mechaniloid"
   },
   "SD02-05": {
     "id": "SD02-05",
@@ -597,14 +540,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Virus"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "B. Chip: Fire Tower"
+    "Skill/Equip Name": "B. Chip: Fire Tower",
+    "Traits": "Virus"
   },
   "SD02-06": {
     "id": "SD02-06",
@@ -622,14 +563,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "5",
-    "Traits": [
-      "Virus"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "B. Chip: Burner"
+    "Skill/Equip Name": "B. Chip: Burner",
+    "Traits": "Virus"
   },
   "SD02-07": {
     "id": "SD02-07",
@@ -647,14 +586,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "6",
-    "Traits": [
-      "Robot"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Changkey Throw"
+    "Skill/Equip Name": "Changkey Throw",
+    "Traits": "Robot"
   },
   "SD02-08": {
     "id": "SD02-08",
@@ -672,15 +609,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Fire Storm"
+    "Skill/Equip Name": "Fire Storm",
+    "Traits": "Robot | Robot Masters"
   },
   "SD02-09": {
     "id": "SD02-09",
@@ -698,15 +632,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Net Navi",
-      "World Three"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Heat Press"
+    "Skill/Equip Name": "Heat Press",
+    "Traits": "Net Navi | World Three"
   },
   "SD02-10": {
     "id": "SD02-10",
@@ -724,14 +655,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Net Navi"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Turbo Wheel"
+    "Skill/Equip Name": "Turbo Wheel",
+    "Traits": "Net Navi"
   },
   "SD02-11": {
     "id": "SD02-11",
@@ -749,17 +678,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "11",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Repliforce"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Rising Fire"
+    "Skill/Equip Name": "Rising Fire",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Repliforce"
   },
   "SD02-12": {
     "id": "SD02-12",
@@ -777,16 +701,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Reploid",
-      "Maverick Hunters",
-      "Repliforce"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Army Operator"
+    "Skill/Equip Name": "Army Operator",
+    "Traits": "Reploid | Maverick Hunters/Repliforce"
   },
   "SD02-13": {
     "id": "SD02-13",
@@ -804,15 +724,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Human",
-      "Net Op"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "B. Chip: Blower"
+    "Skill/Equip Name": "B. Chip: Blower",
+    "Traits": "Human/Net Op"
   },
   "SD02-14": {
     "id": "SD02-14",
@@ -830,16 +747,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Human",
-      "Net Op",
-      "World Three"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "B. Chip: Fire +20"
+    "Skill/Equip Name": "B. Chip: Fire +20",
+    "Traits": "Human/Net Op | World Three"
   },
   "SD02-15": {
     "id": "SD02-15",
@@ -857,15 +770,12 @@
     "type": "Item",
     "cost": "1",
     "Integrity": 0,
-    "Traits": [
-      "Transportation",
-      "Robot Era"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Item-1"
+    "Skill/Equip Name": "Item-1",
+    "Traits": "Transportation | Robot Era"
   },
   "SD02-16": {
     "id": "SD02-16",
@@ -883,15 +793,12 @@
     "type": "Item",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Parts",
-      "Reploid Era"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Saber Extend"
+    "Skill/Equip Name": "Saber Extend",
+    "Traits": "Parts | Reploid Era"
   },
   "SD02-17": {
     "id": "SD02-17",
@@ -909,15 +816,12 @@
     "type": "Item",
     "cost": "3",
     "Integrity": 0,
-    "Traits": [
-      "Parts",
-      "Reploid Era"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Buster Plus"
+    "Skill/Equip Name": "Buster Plus",
+    "Traits": "Parts | Reploid Era"
   },
   "SD02-18": {
     "id": "SD02-18",
@@ -935,15 +839,12 @@
     "type": "Item",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Program",
-      "Navi Era"
-    ],
     "Element": [
       "Fire"
     ],
     "Set": "SD02 - Bursting Flames",
-    "Skill/Equip Name": "Heat Armor"
+    "Skill/Equip Name": "Heat Armor",
+    "Traits": "Program | Navi Era"
   },
   "SD03-01": {
     "id": "SD03-01",
@@ -983,14 +884,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Robot"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Telly Swarm"
+    "Skill/Equip Name": "Telly Swarm",
+    "Traits": "Robot"
   },
   "SD03-03": {
     "id": "SD03-03",
@@ -1008,14 +907,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "6",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Missile & Spark"
+    "Skill/Equip Name": "Missile & Spark",
+    "Traits": "Mechaniloid"
   },
   "SD03-04": {
     "id": "SD03-04",
@@ -1033,14 +930,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Robot"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Spread Spark"
+    "Skill/Equip Name": "Spread Spark",
+    "Traits": "Robot"
   },
   "SD03-05": {
     "id": "SD03-05",
@@ -1058,14 +953,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "3",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Energy Balls"
+    "Skill/Equip Name": "Energy Balls",
+    "Traits": "Mechaniloid"
   },
   "SD03-06": {
     "id": "SD03-06",
@@ -1083,14 +976,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Virus"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "B. Chip: Thunder"
+    "Skill/Equip Name": "B. Chip: Thunder",
+    "Traits": "Virus"
   },
   "SD03-07": {
     "id": "SD03-07",
@@ -1108,14 +999,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "5",
-    "Traits": [
-      "Virus"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "B. Chip: Remobit"
+    "Skill/Equip Name": "B. Chip: Remobit",
+    "Traits": "Virus"
   },
   "SD03-08": {
     "id": "SD03-08",
@@ -1133,15 +1022,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "7",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Time Stopper"
+    "Skill/Equip Name": "Time Stopper",
+    "Traits": "Robot | Robot Masters"
   },
   "SD03-09": {
     "id": "SD03-09",
@@ -1159,14 +1045,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Net Navi"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Ring Rang"
+    "Skill/Equip Name": "Ring Rang",
+    "Traits": "Net Navi"
   },
   "SD03-10": {
     "id": "SD03-10",
@@ -1184,17 +1068,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Electrick Spark"
+    "Skill/Equip Name": "Electrick Spark",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "SD03-11": {
     "id": "SD03-11",
@@ -1212,15 +1091,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
-    "Traits": [
-      "Net Navi",
-      "World Three"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Sequence Bolt"
+    "Skill/Equip Name": "Sequence Bolt",
+    "Traits": "Net Navi | World Three"
   },
   "SD03-12": {
     "id": "SD03-12",
@@ -1238,16 +1114,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Human",
-      "Net Op",
-      "World Three"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "B. Chip: Elec +10"
+    "Skill/Equip Name": "B. Chip: Elec +10",
+    "Traits": "Human/Net Op | World Three"
   },
   "SD03-13": {
     "id": "SD03-13",
@@ -1265,16 +1137,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Doppler Army"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Attack Absorb"
+    "Skill/Equip Name": "Attack Absorb",
+    "Traits": "Reploid/Maverick | Doppler Army"
   },
   "SD03-14": {
     "id": "SD03-14",
@@ -1292,15 +1160,12 @@
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Human",
-      "Net Op"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "B. Chip: Aluminum Line"
+    "Skill/Equip Name": "B. Chip: Aluminum Line",
+    "Traits": "Human/Net Op"
   },
   "SD03-15": {
     "id": "SD03-15",
@@ -1318,15 +1183,12 @@
     "type": "Item",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Battle Chip",
-      "Navi Era"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "B. Chip: White Capsule"
+    "Skill/Equip Name": "B. Chip: White Capsule",
+    "Traits": "Battle Chip | Navi Era"
   },
   "SD03-16": {
     "id": "SD03-16",
@@ -1344,15 +1206,12 @@
     "type": "Item",
     "cost": "4",
     "Integrity": 0,
-    "Traits": [
-      "Parts",
-      "Reploid Era"
-    ],
     "Element": [
       "Neutral"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Hyper Charge"
+    "Skill/Equip Name": "Hyper Charge",
+    "Traits": "Parts | Reploid Era"
   },
   "SD03-17": {
     "id": "SD03-17",
@@ -1370,15 +1229,12 @@
     "type": "Item",
     "cost": "2",
     "Integrity": 0,
-    "Traits": [
-      "Program",
-      "Navi Era"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Elec Armor"
+    "Skill/Equip Name": "Elec Armor",
+    "Traits": "Program | Navi Era"
   },
   "SD03-18": {
     "id": "SD03-18",
@@ -1396,15 +1252,12 @@
     "type": "Item",
     "cost": "3",
     "Integrity": 0,
-    "Traits": [
-      "Transportation",
-      "Robot Era"
-    ],
     "Element": [
       "Elec"
     ],
     "Set": "SD03 - Lightning Battle",
-    "Skill/Equip Name": "Magnet Beam"
+    "Skill/Equip Name": "Magnet Beam",
+    "Traits": "Transportation | Robot Era"
   },
   "Token002": {
     "id": "Token002",
@@ -1422,9 +1275,6 @@
     "type": "Unit",
     "cost": 0,
     "Integrity": "1",
-    "Traits": [
-      "Robot"
-    ],
     "Element": [
       "Neutral"
     ],
@@ -1447,9 +1297,6 @@
     "type": "Unit",
     "cost": 0,
     "Integrity": "1",
-    "Traits": [
-      "Virus"
-    ],
     "Element": [
       "Elec"
     ],
@@ -2254,14 +2101,12 @@
     "type": "Stage",
     "cost": 0,
     "Integrity": "32",
-    "Traits": [
-      "ACDC Town"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": ""
+    "Skill/Equip Name": "",
+    "Traits": "ACDC Town"
   },
   "CS01-002": {
     "id": "CS01-002",
@@ -2279,14 +2124,12 @@
     "type": "Stage",
     "cost": 0,
     "Integrity": "32",
-    "Traits": [
-      "Maverick Hunters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": ""
+    "Skill/Equip Name": "",
+    "Traits": "Maverick Hunters"
   },
   "CS01-003": {
     "id": "CS01-003",
@@ -2373,14 +2216,12 @@
     "type": "Stage",
     "cost": 0,
     "Integrity": "32",
-    "Traits": [
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Dark"
     ],
-    "Skill/Equip Name": ""
+    "Skill/Equip Name": "",
+    "Traits": "Sigma's Rebellion"
   },
   "CS01-007": {
     "id": "CS01-007",
@@ -2398,14 +2239,12 @@
     "type": "Stage",
     "cost": 0,
     "Integrity": "32",
-    "Traits": [
-      "Wily Castle"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Dark"
     ],
-    "Skill/Equip Name": ""
+    "Skill/Equip Name": "",
+    "Traits": "Wily Castle"
   },
   "CS01-008": {
     "id": "CS01-008",
@@ -2423,14 +2262,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Recon Flight"
+    "Skill/Equip Name": "Recon Flight",
+    "Traits": "Robot"
   },
   "CS01-009": {
     "id": "CS01-009",
@@ -2448,14 +2285,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Met Helmet"
+    "Skill/Equip Name": "Met Helmet",
+    "Traits": "Robot"
   },
   "CS01-010": {
     "id": "CS01-010",
@@ -2473,14 +2308,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "3",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Barrier Bash"
+    "Skill/Equip Name": "Barrier Bash",
+    "Traits": "Mechaniloid"
   },
   "CS01-011": {
     "id": "CS01-011",
@@ -2498,14 +2331,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Reploid"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Mace Strike"
+    "Skill/Equip Name": "Mace Strike",
+    "Traits": "Reploid"
   },
   "CS01-012": {
     "id": "CS01-012",
@@ -2523,14 +2354,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Block and Counter"
+    "Skill/Equip Name": "Block and Counter",
+    "Traits": "Robot"
   },
   "CS01-013": {
     "id": "CS01-013",
@@ -2548,14 +2377,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "6",
-    "Traits": [
-      "Virus"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "B. Chip: Cannon"
+    "Skill/Equip Name": "B. Chip: Cannon",
+    "Traits": "Virus"
   },
   "CS01-014": {
     "id": "CS01-014",
@@ -2573,14 +2400,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "5",
-    "Traits": [
-      "Virus"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "B. Chip: Long Sword"
+    "Skill/Equip Name": "B. Chip: Long Sword",
+    "Traits": "Virus"
   },
   "CS01-015": {
     "id": "CS01-015",
@@ -2598,14 +2423,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "6",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Bomb Launcher"
+    "Skill/Equip Name": "Bomb Launcher",
+    "Traits": "Mechaniloid"
   },
   "CS01-016": {
     "id": "CS01-016",
@@ -2623,14 +2446,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "8",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Eye Stomp"
+    "Skill/Equip Name": "Eye Stomp",
+    "Traits": "Robot"
   },
   "CS01-017": {
     "id": "CS01-017",
@@ -2648,15 +2469,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "7",
-    "Traits": [
-      "Net Navi",
-      "ACDC Town"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Heart Flash"
+    "Skill/Equip Name": "Heart Flash",
+    "Traits": "Net Navi | ACDC Town"
   },
   "CS01-018": {
     "id": "CS01-018",
@@ -2674,15 +2492,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Rolling Cutter"
+    "Skill/Equip Name": "Rolling Cutter",
+    "Traits": "Robot | Robot Masters"
   },
   "CS01-019": {
     "id": "CS01-019",
@@ -2700,15 +2515,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Net Navi",
-      "ACDC Town"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Shopping Spree"
+    "Skill/Equip Name": "Shopping Spree",
+    "Traits": "Net Navi | ACDC Town"
   },
   "CS01-020": {
     "id": "CS01-020",
@@ -2726,16 +2538,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Reploid",
-      "Maverick Hunters",
-      "Red Alert"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Axl Bullets"
+    "Skill/Equip Name": "Axl Bullets",
+    "Traits": "Reploid | Maverick Hunters/Red Alert"
   },
   "CS01-021": {
     "id": "CS01-021",
@@ -2753,17 +2561,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Boomerang Cutter"
+    "Skill/Equip Name": "Boomerang Cutter",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "CS01-022": {
     "id": "CS01-022",
@@ -2781,16 +2584,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Net Navi",
-      "ACDC Town",
-      "World Three"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Die Bomb"
+    "Skill/Equip Name": "Die Bomb",
+    "Traits": "Net Navi | ACDC Town/World Three"
   },
   "CS01-023": {
     "id": "CS01-023",
@@ -2808,14 +2607,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Proto Shield"
+    "Skill/Equip Name": "Proto Shield",
+    "Traits": "Robot"
   },
   "CS01-024": {
     "id": "CS01-024",
@@ -2833,15 +2630,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Net Navi",
-      "ACDC Town"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Shockwave"
+    "Skill/Equip Name": "Shockwave",
+    "Traits": "Net Navi | ACDC Town"
   },
   "CS01-025": {
     "id": "CS01-025",
@@ -2859,15 +2653,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Robot",
-      "Dr. Light's Lab"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Weapon Copy System"
+    "Skill/Equip Name": "Weapon Copy System",
+    "Traits": "Robot | Dr. Light's Lab"
   },
   "CS01-026": {
     "id": "CS01-026",
@@ -2885,15 +2676,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Reploid",
-      "Maverick Hunters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Reploid Progenitor"
+    "Skill/Equip Name": "Reploid Progenitor",
+    "Traits": "Reploid | Maverick Hunters"
   },
   "CS01-027": {
     "id": "CS01-027",
@@ -2911,15 +2699,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "11",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Hyper Bomb"
+    "Skill/Equip Name": "Hyper Bomb",
+    "Traits": "Robot | Robot Masters"
   },
   "CS01-028": {
     "id": "CS01-028",
@@ -2937,17 +2722,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "11",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Electroshock Bullet"
+    "Skill/Equip Name": "Electroshock Bullet",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "CS01-029": {
     "id": "CS01-029",
@@ -2965,15 +2745,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
-    "Traits": [
-      "Net Navi",
-      "ACDC Town"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "B. Chip: Mini Bomb"
+    "Skill/Equip Name": "B. Chip: Mini Bomb",
+    "Traits": "Net Navi | ACDC Town"
   },
   "CS01-030": {
     "id": "CS01-030",
@@ -2991,15 +2768,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
-    "Traits": [
-      "Reploid",
-      "Maverick Hunters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Zero Buster"
+    "Skill/Equip Name": "Zero Buster",
+    "Traits": "Reploid | Maverick Hunters"
   },
   "CS01-031": {
     "id": "CS01-031",
@@ -3017,15 +2791,12 @@
     "type": "Unit",
     "cost": "8",
     "Integrity": "16",
-    "Traits": [
-      "Robot",
-      "Wily Castle"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Neutral"
     ],
-    "Skill/Equip Name": "Parts Barrage"
+    "Skill/Equip Name": "Parts Barrage",
+    "Traits": "Robot | Wily Castle"
   },
   "CS01-032": {
     "id": "CS01-032",
@@ -3043,14 +2814,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Virus"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire"
     ],
-    "Skill/Equip Name": "B. Chip: Heat Shot"
+    "Skill/Equip Name": "B. Chip: Heat Shot",
+    "Traits": "Virus"
   },
   "CS01-033": {
     "id": "CS01-033",
@@ -3068,14 +2837,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "3",
-    "Traits": [
-      "Virus"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire"
     ],
-    "Skill/Equip Name": "B. Chip: Candle"
+    "Skill/Equip Name": "B. Chip: Candle",
+    "Traits": "Virus"
   },
   "CS01-034": {
     "id": "CS01-034",
@@ -3093,15 +2860,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "7",
-    "Traits": [
-      "Net Navi",
-      "World Three"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire"
     ],
-    "Skill/Equip Name": "Fire Arm"
+    "Skill/Equip Name": "Fire Arm",
+    "Traits": "Net Navi | World Three"
   },
   "CS01-035": {
     "id": "CS01-035",
@@ -3119,17 +2883,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire"
     ],
-    "Skill/Equip Name": "Speed Burner"
+    "Skill/Equip Name": "Speed Burner",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "CS01-036": {
     "id": "CS01-036",
@@ -3147,15 +2906,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Robot",
-      "Robot Monsters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire"
     ],
-    "Skill/Equip Name": "Atomic Fire"
+    "Skill/Equip Name": "Atomic Fire",
+    "Traits": "Robot | Robot Masters"
   },
   "CS01-037": {
     "id": "CS01-037",
@@ -3173,17 +2929,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire"
     ],
-    "Skill/Equip Name": "Fire Wave"
+    "Skill/Equip Name": "Fire Wave",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "CS01-038": {
     "id": "CS01-038",
@@ -3201,16 +2952,13 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "10",
-    "Traits": [
-      "Net Navi",
-      "World Three"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Fire",
       "Aqua"
     ],
-    "Skill/Equip Name": "Color Ball"
+    "Skill/Equip Name": "Color Ball",
+    "Traits": "Net Navi | World Three"
   },
   "CS01-039": {
     "id": "CS01-039",
@@ -3228,14 +2976,12 @@
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Torpedo Rush"
+    "Skill/Equip Name": "Torpedo Rush",
+    "Traits": "Mechaniloid"
   },
   "CS01-040": {
     "id": "CS01-040",
@@ -3253,14 +2999,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "3",
-    "Traits": [
-      "Virus"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "B. Chip: Bubble Cross"
+    "Skill/Equip Name": "B. Chip: Bubble Cross",
+    "Traits": "Virus"
   },
   "CS01-041": {
     "id": "CS01-041",
@@ -3278,14 +3022,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "5",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Electrified Body"
+    "Skill/Equip Name": "Electrified Body",
+    "Traits": "Mechaniloid"
   },
   "CS01-042": {
     "id": "CS01-042",
@@ -3303,14 +3045,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "5",
-    "Traits": [
-      "Mechaniloid"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Devouring Trap"
+    "Skill/Equip Name": "Devouring Trap",
+    "Traits": "Mechaniloid"
   },
   "CS01-043": {
     "id": "CS01-043",
@@ -3328,14 +3068,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "6",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Kerog Spawn"
+    "Skill/Equip Name": "Kerog Spawn",
+    "Traits": "Robot"
   },
   "CS01-044": {
     "id": "CS01-044",
@@ -3353,15 +3091,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "7",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Bubble Lead"
+    "Skill/Equip Name": "Bubble Lead",
+    "Traits": "Robot | Robot Masters"
   },
   "CS01-045": {
     "id": "CS01-045",
@@ -3379,17 +3114,12 @@
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Shotgun Ice"
+    "Skill/Equip Name": "Shotgun Ice",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "CS01-046": {
     "id": "CS01-046",
@@ -3407,15 +3137,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Net Navi",
-      "World Three"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Freeze Bomb"
+    "Skill/Equip Name": "Freeze Bomb",
+    "Traits": "Net Navi | World Three"
   },
   "CS01-047": {
     "id": "CS01-047",
@@ -3433,17 +3160,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Maverick Hunters",
-      "Sigma's Rebellion"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Homing Torpedo"
+    "Skill/Equip Name": "Homing Torpedo",
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion"
   },
   "CS01-048": {
     "id": "CS01-048",
@@ -3461,14 +3183,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "11",
-    "Traits": [
-      "Net Navi"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Metal Fins"
+    "Skill/Equip Name": "Metal Fins",
+    "Traits": "Net Navi"
   },
   "CS01-049": {
     "id": "CS01-049",
@@ -3486,16 +3206,12 @@
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Doppler Army"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Aqua"
     ],
-    "Skill/Equip Name": "Frost Shield"
+    "Skill/Equip Name": "Frost Shield",
+    "Traits": "Reploid/Maverick | Doppler Army"
   },
   "CS01-050": {
     "id": "CS01-050",
@@ -3513,14 +3229,12 @@
     "type": "Unit",
     "cost": "2",
     "Integrity": "4",
-    "Traits": [
-      "Virus"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Elec"
     ],
-    "Skill/Equip Name": "B. Chip: Zap Ring"
+    "Skill/Equip Name": "B. Chip: Zap Ring",
+    "Traits": "Virus"
   },
   "CS01-051": {
     "id": "CS01-051",
@@ -3538,14 +3252,12 @@
     "type": "Unit",
     "cost": "3",
     "Integrity": "6",
-    "Traits": [
-      "Robot"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Elec"
     ],
-    "Skill/Equip Name": "Thunder Chariot"
+    "Skill/Equip Name": "Thunder Chariot",
+    "Traits": "Robot"
   },
   "CS01-052": {
     "id": "CS01-052",
@@ -3563,15 +3275,12 @@
     "type": "Stage",
     "cost": "4",
     "Integrity": "8",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Elec"
     ],
-    "Skill/Equip Name": "Spark Shock"
+    "Skill/Equip Name": "Spark Shock",
+    "Traits": "Robot | Robot Masters"
   },
   "CS01-053": {
     "id": "CS01-053",
@@ -3589,16 +3298,12 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
-    "Traits": [
-      "Reploid",
-      "Maverick",
-      "Doppler Army"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Elec"
     ],
-    "Skill/Equip Name": "Ray Splasher"
+    "Skill/Equip Name": "Ray Splasher",
+    "Traits": "Reploid/Maverick | Doppler Army"
   },
   "CS01-054": {
     "id": "CS01-054",
@@ -3616,14 +3321,11 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Traits": [
-      "Robot",
-      "Robot Masters"
-    ],
     "Set": "CS01 - For Everlasting Peace",
     "Element": [
       "Elec"
     ],
-    "Skill/Equip Name": "Magnet Missile"
+    "Skill/Equip Name": "Magnet Missile",
+    "Traits": "Robot | Robot Masters"
   }
 }

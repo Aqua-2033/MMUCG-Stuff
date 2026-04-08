@@ -488,8 +488,8 @@
           "Item_Panel-1": {
             "title": "Item_Panel-1",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -504,8 +504,8 @@
           "Item_Panel-2": {
             "title": "Item_Panel-2",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -520,8 +520,8 @@
           "Unit_Panel-1": {
             "title": "Unit_Panel-1",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -536,8 +536,8 @@
           "Unit_Panel-2": {
             "title": "Unit_Panel-2",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -552,8 +552,8 @@
           "Unit_Panel-3": {
             "title": "Unit_Panel-3",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -568,8 +568,8 @@
           "Unit_Panel-4": {
             "title": "Unit_Panel-4",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -584,8 +584,8 @@
           "Unit_Panel-5": {
             "title": "Unit_Panel-5",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -600,8 +600,8 @@
           "Unit_Panel-6": {
             "title": "Unit_Panel-6",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -616,8 +616,8 @@
           "Unit_Panel-7": {
             "title": "Unit_Panel-7",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -632,8 +632,8 @@
           "Unit_Panel-8": {
             "title": "Unit_Panel-8",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -648,8 +648,8 @@
           "Unit_Panel-9": {
             "title": "Unit_Panel-9",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -664,8 +664,8 @@
           "Operator_Panel-1": {
             "title": "Operator_Panel-1",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -680,8 +680,8 @@
           "Operator_Panel-2": {
             "title": "Operator_Panel-2",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -696,8 +696,8 @@
           "Operator_Panel-3": {
             "title": "Operator_Panel-3",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -712,8 +712,8 @@
           "Operator_Panel-4": {
             "title": "Operator_Panel-4",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -728,8 +728,8 @@
           "Stage_Panel": {
             "title": "Stage_Panel",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "12",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -744,7 +744,7 @@
           "Item_Under-1": {
             "title": "Item_Under-1",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -760,7 +760,7 @@
           "Item_Under-2": {
             "title": "Item_Under-2",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -776,7 +776,7 @@
           "Unit_Under-1": {
             "title": "Unit_Under-1",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -792,7 +792,7 @@
           "Unit_Under-2": {
             "title": "Unit_Under-2",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -808,7 +808,7 @@
           "Unit_Under-3": {
             "title": "Unit_Under-3",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -824,7 +824,7 @@
           "Unit_Under-4": {
             "title": "Unit_Under-4",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -840,7 +840,7 @@
           "Unit_Under-5": {
             "title": "Unit_Under-5",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -856,7 +856,7 @@
           "Unit_Under-6": {
             "title": "Unit_Under-6",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -872,7 +872,7 @@
           "Unit_Under-7": {
             "title": "Unit_Under-7",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -888,7 +888,7 @@
           "Unit_Under-8": {
             "title": "Unit_Under-8",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -904,7 +904,7 @@
           "Unit_Under-9": {
             "title": "Unit_Under-9",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -920,7 +920,7 @@
           "Operator_Under-1": {
             "title": "Operator_Under-1",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -936,7 +936,7 @@
           "Operator_Under-2": {
             "title": "Operator_Under-2",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -952,7 +952,7 @@
           "Operator_Under-3": {
             "title": "Operator_Under-3",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -968,7 +968,7 @@
           "Operator_Under-4": {
             "title": "Operator_Under-4",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -984,7 +984,7 @@
           "Stage_Under": {
             "title": "Stage_Under",
             "isHidden": "no",
-            "height": "10",
+            "height": "1",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,

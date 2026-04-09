@@ -120,192 +120,223 @@
             {
               "direction": "column",
               "style": {
-                "justifyContent": "center",
-                "width": "25vh"
+                "justifyContent": "start",
+                "width": "100vh"
               },
               "content": [
                 {
-                  "section": "Item_Under-1",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item_Under-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-7",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-8",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-9",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Item_Panel-1",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item_Panel-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-7",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-8",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-9",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Stage_Under",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Stage_Under",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-4",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-5",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-6",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Stage_Panel",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Stage_Panel",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-4",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-5",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-6",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Item_Under-2",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item_Under-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Item_Panel-2",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item_Panel-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Panel-3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
-              ]
-            },
-            {
-              "direction": "column",
-              "style": {
-                "justifyContent": "center",
-                "width": "25vh"
-              },
-              "content": [
-                {
-                   "section": "Unit_Under-7",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Panel-7",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Under-4",
-                   "style": false
-                },
-                {
-                  "section": "Unit_Panel-4",
-                  "style": false
-                },
-                {
-                   "section": "Unit_Under-1",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Panel-1",
-                   "style": false
-                 }
               ],
               "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
               "style": {
-                "justifyContent": "center",
-                "width": "25vh"
+                "justifyContent": "start",
+                "width": "50vh"
               },
               "content": [
                 {
-                   "section": "Unit_Under-8",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Operator_Under-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Under-2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Unit_Panel-8",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Operator_Panel-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Panel-2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Unit_Under-5",
-                   "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Operator_Under-3",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Under-4",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Unit_Panel-5",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Operator_Panel-3",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Panel-4",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                   "section": "Unit_Under-2",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Panel-2",
-                   "style": false
-                 }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {
-                "justifyContent": "center",
-                "width": "25vh"
-              },
-              "content": [
-                {
-                   "section": "Unit_Under-9",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Panel-9",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Under-6",
-                   "style": false
-                },
-                {
-                  "section": "Unit_Panel-6",
-                  "style": false
-                },
-                {
-                   "section": "Unit_Under-3",
-                   "style": false
-                },
-                {
-                   "section": "Unit_Panel-3",
-                   "style": false
-                 }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {
-                "justifyContent": "center",
-                "width": "25vh"
-              },
-              "content": [
-                {
-                   "section": "Operator_Under-1",
-                   "style": false
-                },
-                {
-                   "section": "Operator_Panel-1",
-                   "style": false
-                },
-                {
-                   "section": "Operator_Under-3",
-                   "style": false
-                 },
-                 {
-                   "section": "Operator_Panel-3",
-                   "style": false
-                 },
-                 {
-                   "section": "Extra_Folder",
-                   "style": false
-                 }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {
-                "justifyContent": "center",
-                "width": "25vh"
-              },
-              "content": [
-                {
-                   "section": "Operator_Under-2",
-                   "style": false
-                },
-                {
-                  "section": "Operator_Panel-2",
-                  "style": false
-                },
-                {
-                  "section": "Operator_Under-4",
-                  "style": false
-                },
-                {
-                  "section": "Operator_Panel-4",
+                  "section": "Extra_Folder",
                   "style": false
                 }
-               ],
+              ],
               "isSymetricalForOpponents": false
             }
           ]

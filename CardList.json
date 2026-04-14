@@ -1655,18 +1655,18 @@
         "name": "Elemental Planet",
         "type": "Unit",
         "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20Token.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20(Fire)%20Token.jpg?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Elemental Planet",
+    "name": "Elemental Planet (Fire)",
     "type": "Unit",
     "cost": 0,
     "Integrity": "2",
-    "Traits": false,
+    "Traits": "",
     "Set": "",
     "Element": [
-      "Neutral"
+      "Fire"
     ],
     "Skill/Equip Name": ""
   },
@@ -1850,18 +1850,18 @@
         "name": "Mini ColorMan",
         "type": "Unit",
         "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20Token.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Fire)%20Token.jpg?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Mini ColorMan",
+    "name": "Mini ColorMan (Fire)",
     "type": "Unit",
     "cost": 0,
     "Integrity": "3",
-    "Traits": false,
+    "Traits": "",
     "Set": "",
     "Element": [
-      "Neutral"
+      "Fire"
     ],
     "Skill/Equip Name": ""
   },
@@ -5544,33 +5544,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gabyoall",
-        "type": "Unit",
-        "cost": "2",
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-043%20Gabyoall.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gabyoall",
-    "type": "Unit",
-    "cost": "2",
-    "Integrity": "1",
-    "Set": "CS02 - Limitless Potential",
-    "Element": [
-      "Ground"
-    ],
-    "Traits": "Robot",
-    "Skill/Equip Name": "Gliding Bash"
-  },
-  "CS02-044": {
-    "id": "CS02-044",
-    "isToken": false,
-    "face": {
-      "front": {
         "name": "Rush",
         "type": "Unit",
         "cost": "2",
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-044%20Rush.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-043%20Rush.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -5585,15 +5562,15 @@
     "Traits": "Virus",
     "Skill/Equip Name": "B. Chip: Pop Up"
   },
-  "CS02-045": {
-    "id": "CS02-045",
+  "CS02-044": {
+    "id": "CS02-044",
     "isToken": false,
     "face": {
       "front": {
         "name": "Degraver",
         "type": "Unit",
         "cost": "2",
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-045%20Degraver.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-044%20Degraver.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -5607,6 +5584,29 @@
     ],
     "Traits": "Mechaniloid",
     "Skill/Equip Name": "Pickaxe Strike"
+  },
+  "CS02-045": {
+    "id": "CS02-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gabyoall",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-045%20Gabyoall.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gabyoall",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "1",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Gliding Bash"
   },
   "CS02-046": {
     "id": "CS02-046",
@@ -6228,6 +6228,211 @@
       "Dark"
     ],
     "Traits": "Virus | World Three",
+    "Skill/Equip Name": ""
+  },
+  "Token040": {
+    "id": "Token040",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Flame Mammoth Oil",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Flame%20Mammoth%20Oil%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flame Mammoth Oil",
+    "type": false,
+    "cost": 0,
+    "Integrity": "",
+    "Set": "",
+    "Element": false,
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token041": {
+    "id": "Token041",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Elemental Planet",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20(Aqua)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elemental Planet (Aqua)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Set": "",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token042": {
+    "id": "Token042",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Elemental Planet",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20(Elec)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elemental Planet (Elec)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Set": "",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token043": {
+    "id": "Token043",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Aqua)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan (Aqua)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token044": {
+    "id": "Token044",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Elec)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan (Elec)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token045": {
+    "id": "Token045",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Wood)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan (Wood)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token046": {
+    "id": "Token046",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Dark)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan (Dark)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token047": {
+    "id": "Token047",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Wind)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan (Wind)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token048": {
+    "id": "Token048",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Ground)%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan (Ground)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "",
     "Skill/Equip Name": ""
   }
 }

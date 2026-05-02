@@ -59,7 +59,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "After first drawing your Folder, you may shuffle your Folder into the Database and draw 6 cards.",
+        "info": "After first drawing your hand, you may shuffle it into the Folder and draw 6 cards.",
         "startingHandSize": "6",
         "drawNewHand": true,
         "putSelectionAtBottom": false,

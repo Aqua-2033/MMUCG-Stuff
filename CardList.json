@@ -4446,7 +4446,7 @@
       }
     },
     "name": "Grass Stage",
-    "type": "Operator",
+    "type": "Item",
     "cost": "4",
     "Integrity": "",
     "Set": "CS01 - For Everlasting Peace",

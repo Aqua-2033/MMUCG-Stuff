@@ -2281,7 +2281,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mettaur",
+    "name": "Mettaur (CS01)",
     "type": "Unit",
     "cost": "1",
     "Integrity": "1",
@@ -2465,7 +2465,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Roll.EXE",
+    "name": "Roll.EXE (CS01)",
     "type": "Unit",
     "cost": "4",
     "Integrity": "7",
@@ -2626,7 +2626,7 @@
         "isHorizontal": false
       }
     },
-    "name": "GutsMan.EXE",
+    "name": "GutsMan.EXE (CS01)",
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
@@ -2741,7 +2741,7 @@
         "isHorizontal": false
       }
     },
-    "name": "MegaMan.EXE",
+    "name": "MegaMan.EXE (CS01)",
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
@@ -4007,7 +4007,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lan Hikari",
+    "name": "Lan Hikari (CS01)",
     "type": "Operator",
     "cost": "2",
     "Integrity": "",
@@ -4053,7 +4053,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mayl Sakurai",
+    "name": "Mayl Sakurai (CS01)",
     "type": "Operator",
     "cost": "3",
     "Integrity": "",
@@ -5735,7 +5735,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Guts Man",
+    "name": "Guts Man (CS02)",
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
@@ -6434,5 +6434,456 @@
     ],
     "Traits": "",
     "Skill/Equip Name": ""
+  },
+  "SD04-01": {
+    "id": "SD04-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lan's Homepage",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-01%20Lan's%20Homepage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lan's Homepage",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "ACDC Town",
+    "Skill/Equip Name": "",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-02": {
+    "id": "SD04-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mettaur",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-02%20Mettaur.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mettaur (SD04)",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "2",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Guard",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-03": {
+    "id": "SD04-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Prog",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-03%20Mr.%20Prog.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Prog",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Program",
+    "Skill/Equip Name": "E-mail Delivery",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-04": {
+    "id": "SD04-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "NormalNavi",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-04%20NormalNavi.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "NormalNavi",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Navi Customization",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-05": {
+    "id": "SD04-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MegaMan.EXE",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-05%20MegaMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "MegaMan.EXE (SD04)",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi | ACDC Town",
+    "Skill/Equip Name": "Change.bat",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-06": {
+    "id": "SD04-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roll.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-06%20Roll.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roll.EXE (SD04)",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Recovery +120",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-07": {
+    "id": "SD04-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AquaCustom Style",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-07%20AquaCustom%20Style.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "AquaCustom Style",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Net Navi/Style Change | ACDC Town",
+    "Skill/Equip Name": "Aqua Shot",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-08": {
+    "id": "SD04-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ElecTeam Style",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-08%20ElecTeam%20Style.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "ElecTeam Style",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Net Navi/Style Change | ACDC Town",
+    "Skill/Equip Name": "Zap Ring",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-09": {
+    "id": "SD04-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "HeelNavi",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-09%20HeelNavi.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "HeelNavi",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "8",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Illegal Purchase",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-10": {
+    "id": "SD04-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AquaBug Style",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-10%20AquaBug%20Style.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "AquaBug Style",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "14",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Dark",
+      "Aqua"
+    ],
+    "Traits": "Net Navi/Style Change | ACDC Town",
+    "Skill/Equip Name": "Custom Bug",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-11": {
+    "id": "SD04-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GutsMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-11%20GutsMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "GutsMan.EXE (SD04)",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Net Navi | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Geddon",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-12": {
+    "id": "SD04-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haruka Hikari",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-12%20Haruka%20Hikari.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haruka Hikari",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human | ACDC Town",
+    "Skill/Equip Name": "Housework",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-13": {
+    "id": "SD04-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lan Hikari",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-13%20Lan%20Hikari.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lan Hikari (SD04)",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Sword",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-14": {
+    "id": "SD04-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mayl Sakurai",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-14%20Mayl%20Sakurai.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mayl Sakurai (SD04)",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Barrier",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-15": {
+    "id": "SD04-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yuichiro Hikari",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-15%20Yuichiro%20Hikari.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yuichiro Hikari",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human | ACDC Town",
+    "Skill/Equip Name": "Hub.bat",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-16": {
+    "id": "SD04-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mini Energy",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-16%20Mini%20Energy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini Energy",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Sub Chip | Navi Era",
+    "Skill/Equip Name": "Mini Energy",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-17": {
+    "id": "SD04-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bug Fix",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-17%20Bug%20Fix.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bug Fix",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Bug Fix",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD04-18": {
+    "id": "SD04-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Folder Back",
+        "type": "Item",
+        "cost": "99",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD04%20-%20Style%20Change/SD04-18%20Folder%20Back.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Folder Back",
+    "type": "Extra Folder",
+    "cost": "99",
+    "Integrity": "",
+    "Set": "SD04 - Style Change",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Battle Chip/Giga Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Folder Back",
+    "Giga Chip": true,
+    "Limited to 1": false
   }
 }

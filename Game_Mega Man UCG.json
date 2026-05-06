@@ -69,13 +69,14 @@
       "mulligan": {
         "info": "After first drawing your hand, you may shuffle it into the Folder and draw 6 cards.",
         "startingHandSize": "6",
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        }
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": true,
+        "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },

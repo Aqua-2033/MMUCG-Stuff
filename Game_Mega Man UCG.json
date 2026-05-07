@@ -67,11 +67,22 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "After first drawing your hand, you may shuffle it into the Folder and draw 6 cards.",
         "startingHandSize": "6",
         "mulliganCount": {
           "min": 0,
           "max": 1
+        },
+        "mulliganCycle": {
+          "info": "After first drawing your hand, you may shuffle it into the Folder and draw 6 cards.",
+          "steps": [
+            "toBottom",
+            "shuffle",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 6,
+            "max": 7
+          }
         }
       },
       "newTurn": {

@@ -51,14 +51,6 @@
             "max": 20,
             "maxPerCard": 4,
             "ignoreTotalCount": true
-          },
-          {
-            "category": "Giga Chip",
-            "max": 1
-          },
-          {
-            "category": "Limited to 1",
-            "maxPerCard": 1
           }
         ]
       }

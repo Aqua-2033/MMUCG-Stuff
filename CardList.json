@@ -3915,7 +3915,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Alia",
+    "name": "Alia (CS01)",
     "type": "Operator",
     "cost": "2",
     "Integrity": "",
@@ -6931,6 +6931,456 @@
     "Element": false,
     "Traits": "",
     "Skill/Equip Name": "Wound",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-01": {
+    "id": "SD05-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forgotten Area",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-01%20Forgotten%20Area.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forgotten Area",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": "",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-02": {
+    "id": "SD05-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Popper",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-02%20Popper.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Popper",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Dropdown",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-03": {
+    "id": "SD05-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tombort",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-03%20Tombort.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tombort",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Tombort",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-04": {
+    "id": "SD05-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anaconda",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-04%20Anaconda.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anaconda",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "8",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Snake Egg",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-05": {
+    "id": "SD05-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Totem Polen",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-05%20Totem%20Polen.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Totem Polen",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "9",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Path Obstruction",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-06": {
+    "id": "SD05-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Plant Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-06%20Plant%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plant Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Plant Barrier",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-07": {
+    "id": "SD05-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BeastMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-07%20BeastMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "BeastMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Wild Rush",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-08": {
+    "id": "SD05-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buster Rod G",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-08%20Buster%20Rod%20G.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buster Rod G",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot | Wily Castle/Genesis Unit",
+    "Skill/Equip Name": "Illusion Dodge",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-09": {
+    "id": "SD05-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wire Sponge L",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-09%20Wire%20Sponge%20L.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wire Sponge L",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "16",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army/Limited",
+    "Skill/Equip Name": "Chain Spin",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-10": {
+    "id": "SD05-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tomahawk Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-10%20Tomahawk%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tomahawk Man",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "13",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Silver Tomahawk",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-11": {
+    "id": "SD05-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sting Chameleon L",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-11%20Sting%20Chameleon%20L.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sting Chameleon L",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "18",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army/Limited",
+    "Skill/Equip Name": "Iron Tongue",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-12": {
+    "id": "SD05-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ms. Mari",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-12%20Ms.%20Mari.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ms. Mari",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human | ACDC Town",
+    "Skill/Equip Name": "Busting Class",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-13": {
+    "id": "SD05-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alia",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-13%20Alia.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alia (SD05)",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Reploid | Maverick Hunters",
+    "Skill/Equip Name": "Transfer Beam",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-14": {
+    "id": "SD05-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Takeo Inukai",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-14%20Takeo%20Inukai.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Takeo Inukai",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "Control Chip",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-15": {
+    "id": "SD05-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sub Tank",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-15%20Sub%20Tank.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sub Tank",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts | Reploid Era",
+    "Skill/Equip Name": "Sub Tank",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-16": {
+    "id": "SD05-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Under Shirt",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-16%20Under%20Shirt.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Under Shirt",
+    "type": "Item",
+    "cost": "4",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Program/Navi Costumizer | Navi Era",
+    "Skill/Equip Name": "Under Shirt",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-17": {
+    "id": "SD05-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jungle",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-17%20Jungle.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jungle",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Program/Navi Costumizer",
+    "Skill/Equip Name": "Jungle",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD05-18": {
+    "id": "SD05-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wood Armor",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD05%20-%20Jungle%20Warriors/SD05-18%20Wood%20Armor.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wood Armor",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD05 - Jungle Warriors",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Program | Navi Era",
+    "Skill/Equip Name": "Wood Armor",
     "Giga Chip": false,
     "Limited to 1": false
   }

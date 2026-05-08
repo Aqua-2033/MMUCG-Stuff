@@ -6885,5 +6885,53 @@
     "Skill/Equip Name": "B. Chip: Folder Back",
     "Giga Chip": true,
     "Limited to 1": false
+  },
+  "Token049": {
+    "id": "Token049",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Buster Rod G",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Buster%20Rod%20G%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buster Rod G",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "10",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": "",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "Token050": {
+    "id": "Token050",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Wound%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wound",
+    "type": false,
+    "cost": 0,
+    "Integrity": "",
+    "Set": "",
+    "Element": false,
+    "Traits": "",
+    "Skill/Equip Name": "Wound",
+    "Giga Chip": false,
+    "Limited to 1": false
   }
 }

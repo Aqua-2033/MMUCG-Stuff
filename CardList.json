@@ -3823,7 +3823,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bass",
+    "name": "Bass (CS01)",
     "type": "Unit",
     "cost": "6",
     "Integrity": "11",
@@ -7748,6 +7748,231 @@
     ],
     "Traits": "Robot | Wily Castle",
     "Skill/Equip Name": "Reggae's Shop",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-10": {
+    "id": "SD06-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "StarMan.EXE",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-10%20StarMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "StarMan.EXE",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "9",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Shining Meteor",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-11": {
+    "id": "SD06-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bass",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-11%20Bass.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bass (SD06)",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Wily Castle",
+    "Skill/Equip Name": "Booster Kick",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-12": {
+    "id": "SD06-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dynamo",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-12%20Dynamo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dynamo",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "10",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Reploid/Maverick",
+    "Skill/Equip Name": "Swallow Counter",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-13": {
+    "id": "SD06-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GravityMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-13%20GravityMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "GravityMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Gravity Drive",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-14": {
+    "id": "SD06-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vile MK-II",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-14%20Vile%20MK-II.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vile MK-II",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "13",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Machine Gun",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-15": {
+    "id": "SD06-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proto Shield",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-15%20Proto%20Shield.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proto Shield",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts | Robot Era",
+    "Skill/Equip Name": "Proto Shield",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-16": {
+    "id": "SD06-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Interrupt",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-16%20Interrupt.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Interrupt",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Interrupt",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-17": {
+    "id": "SD06-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super Buster",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-17%20Super%20Buster.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Buster",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Parts | Robot Era",
+    "Skill/Equip Name": "Super Buster",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-18": {
+    "id": "SD06-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anubis",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-18%20Anubis.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anubis",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Anubis",
     "Giga Chip": false,
     "Limited to 1": false
   }

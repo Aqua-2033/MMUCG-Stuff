@@ -7525,5 +7525,230 @@
     "Skill/Equip Name": "",
     "Giga Chip": false,
     "Limited to 1": false
+  },
+  "SD06-01": {
+    "id": "SD06-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abandoned Factory",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-01%20Abandoned%20Factory.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abandoned Factory",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": "",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-02": {
+    "id": "SD06-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brush Man",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-02%20Brush%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brush Man",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Holy Panel",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-03": {
+    "id": "SD06-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CutMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-03%20CutMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "CutMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi | Gospel",
+    "Skill/Equip Name": "Surprise Snip",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-04": {
+    "id": "SD06-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proto Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-04%20Proto%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proto Man (SD06)",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Big Bang Strike",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-05": {
+    "id": "SD06-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pararoid V-1",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-05%20Pararoid%20V-1.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pararoid V-1",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Scrap Possession",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-06": {
+    "id": "SD06-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megalian",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-06%20Megalian.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megalian",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "1",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Aura Head",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-07": {
+    "id": "SD06-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gockroach S",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-07%20Gockroach%20S.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gockroach S",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Gockroach S Nest",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-08": {
+    "id": "SD06-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treble",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-08%20Treble.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treble",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Wily Castle",
+    "Skill/Equip Name": "High-speed Dash",
+    "Giga Chip": false,
+    "Limited to 1": false
+  },
+  "SD06-09": {
+    "id": "SD06-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reggae",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-09%20Reggae.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reggae",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "SD06 - Rogue Fighters",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Wily Castle",
+    "Skill/Equip Name": "Reggae's Shop",
+    "Giga Chip": false,
+    "Limited to 1": false
   }
 }

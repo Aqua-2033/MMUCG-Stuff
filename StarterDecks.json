@@ -283,5 +283,302 @@
       }
     ]
   }
+},
+  {
+  "title": "Style Change",
+  "id": "3a8b0784-f94c-4f7b-be6f-609bad55c8e5",
+  "cardCount": 62,
+  "createdAt": "2026-05-12T01:17:17.851Z",
+  "lastModifiedAt": "2026-05-12T01:17:17.851Z",
+  "game": "Mega Man Unnoficial Card Game",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Stage",
+      "Unit",
+      "Extra Folder",
+      "Item",
+      "Operator"
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD04-01"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 4,
+        "id": "SD04-03"
+      },
+      {
+        "count": 4,
+        "id": "SD04-04"
+      },
+      {
+        "count": 4,
+        "id": "SD04-09"
+      },
+      {
+        "count": 2,
+        "id": "SD04-02"
+      },
+      {
+        "count": 4,
+        "id": "SD04-05"
+      },
+      {
+        "count": 4,
+        "id": "SD04-06"
+      },
+      {
+        "count": 4,
+        "id": "SD04-07"
+      },
+      {
+        "count": 4,
+        "id": "SD04-08"
+      },
+      {
+        "count": 4,
+        "id": "SD04-10"
+      },
+      {
+        "count": 3,
+        "id": "SD04-11"
+      }
+    ],
+    "Extra Folder": [
+      {
+        "count": 1,
+        "id": "SD04-18"
+      }
+    ],
+    "Item": [
+      {
+        "count": 3,
+        "id": "SD04-17"
+      },
+      {
+        "count": 4,
+        "id": "SD04-16"
+      }
+    ],
+    "Operator": [
+      {
+        "count": 4,
+        "id": "SD04-13"
+      },
+      {
+        "count": 4,
+        "id": "SD04-15"
+      },
+      {
+        "count": 4,
+        "id": "SD04-12"
+      },
+      {
+        "count": 4,
+        "id": "SD04-14"
+      }
+    ]
+  }
+},
+  {
+  "title": "Jungle Warriors",
+  "id": "3a8b0784-f94c-4f7b-be6f-609bad55c8e5",
+  "cardCount": 61,
+  "createdAt": "2026-05-12T01:17:17.851Z",
+  "lastModifiedAt": "2026-05-12T01:17:17.851Z",
+  "game": "Mega Man Unnoficial Card Game",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Stage",
+      "Operator",
+      "Item",
+      "Unit"
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD05-01"
+      }
+    ],
+    "Operator": [
+      {
+        "count": 4,
+        "id": "SD05-14"
+      },
+      {
+        "count": 4,
+        "id": "SD05-13"
+      },
+      {
+        "count": 4,
+        "id": "SD05-12"
+      }
+    ],
+    "Item": [
+      {
+        "count": 4,
+        "id": "SD05-17"
+      },
+      {
+        "count": 3,
+        "id": "SD05-18"
+      },
+      {
+        "count": 3,
+        "id": "SD05-15"
+      },
+      {
+        "count": 2,
+        "id": "SD05-16"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "SD05-02"
+      },
+      {
+        "count": 4,
+        "id": "SD05-03"
+      },
+      {
+        "count": 2,
+        "id": "SD05-04"
+      },
+      {
+        "count": 4,
+        "id": "SD05-05"
+      },
+      {
+        "count": 4,
+        "id": "SD05-06"
+      },
+      {
+        "count": 4,
+        "id": "SD05-07"
+      },
+      {
+        "count": 4,
+        "id": "SD05-08"
+      },
+      {
+        "count": 4,
+        "id": "SD05-09"
+      },
+      {
+        "count": 4,
+        "id": "SD05-10"
+      },
+      {
+        "count": 4,
+        "id": "SD05-11"
+      }
+    ]
+  }
+},
+  {
+  "title": "Rogue Fighters",
+  "id": "3a8b0784-f94c-4f7b-be6f-609bad55c8e5",
+  "cardCount": 61,
+  "createdAt": "2026-05-12T01:17:17.851Z",
+  "lastModifiedAt": "2026-05-12T01:17:17.851Z",
+  "game": "Mega Man Unnoficial Card Game",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Stage",
+      "Unit",
+      "Item"
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD06-01"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 4,
+        "id": "SD06-05"
+      },
+      {
+        "count": 4,
+        "id": "SD06-08"
+      },
+      {
+        "count": 4,
+        "id": "SD06-09"
+      },
+      {
+        "count": 4,
+        "id": "SD06-07"
+      },
+      {
+        "count": 2,
+        "id": "SD06-06"
+      },
+      {
+        "count": 2,
+        "id": "SD06-02"
+      },
+      {
+        "count": 4,
+        "id": "SD06-03"
+      },
+      {
+        "count": 4,
+        "id": "SD06-04"
+      },
+      {
+        "count": 4,
+        "id": "SD06-10"
+      },
+      {
+        "count": 4,
+        "id": "SD06-11"
+      },
+      {
+        "count": 4,
+        "id": "SD06-12"
+      },
+      {
+        "count": 4,
+        "id": "SD06-13"
+      },
+      {
+        "count": 4,
+        "id": "SD06-14"
+      }
+    ],
+    "Item": [
+      {
+        "count": 4,
+        "id": "SD06-16"
+      },
+      {
+        "count": 3,
+        "id": "SD06-17"
+      },
+      {
+        "count": 3,
+        "id": "SD06-15"
+      },
+      {
+        "count": 2,
+        "id": "SD06-18"
+      }
+    ]
+  }
 }
 ]

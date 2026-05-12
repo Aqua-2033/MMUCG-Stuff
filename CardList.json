@@ -7901,7 +7901,7 @@
     "Giga Chip": false,
     "Limited to 1": false
   },
-  "SD06-16": {
+  "SD06-18": {
     "id": "SD06-16",
     "isToken": false,
     "face": {
@@ -7909,7 +7909,7 @@
         "name": "Interrupt",
         "type": "Item",
         "cost": "2",
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-16%20Interrupt.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-18%20Interrupt.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -7926,7 +7926,7 @@
     "Giga Chip": false,
     "Limited to 1": false
   },
-  "SD06-17": {
+  "SD06-16": {
     "id": "SD06-17",
     "isToken": false,
     "face": {
@@ -7934,7 +7934,7 @@
         "name": "Super Buster",
         "type": "Item",
         "cost": "2",
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-17%20Super%20Buster.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-16%20Super%20Buster.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -7951,7 +7951,7 @@
     "Giga Chip": false,
     "Limited to 1": false
   },
-  "SD06-18": {
+  "SD06-17": {
     "id": "SD06-18",
     "isToken": false,
     "face": {
@@ -7959,7 +7959,7 @@
         "name": "Anubis",
         "type": "Item",
         "cost": "3",
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-18%20Anubis.jpg?raw=true",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/SD06%20-%20Rogue%20Fighters/SD06-17%20Anubis.jpg?raw=true",
         "isHorizontal": false
       }
     },

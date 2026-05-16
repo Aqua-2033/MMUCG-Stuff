@@ -777,7 +777,7 @@
             "cardActionShortcut": {
               "action": "MOVE",
               "actionData": {
-                "destination": "Pile",
+                "destination": "Stack",
                 "position": "Top"
               }
             }

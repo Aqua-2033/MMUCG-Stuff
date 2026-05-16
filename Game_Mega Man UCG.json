@@ -786,7 +786,7 @@
             "title": "Item_Under-2",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -796,13 +796,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-1": {
             "title": "Unit_Under-1",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -812,13 +819,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-2": {
             "title": "Unit_Under-2",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -828,13 +842,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-3": {
             "title": "Unit_Under-3",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -844,13 +865,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-4": {
             "title": "Unit_Under-4",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -860,13 +888,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-5": {
             "title": "Unit_Under-5",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -876,13 +911,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-6": {
             "title": "Unit_Under-6",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -892,13 +934,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-7": {
             "title": "Unit_Under-7",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -908,13 +957,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-8": {
             "title": "Unit_Under-8",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -924,13 +980,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Unit_Under-9": {
             "title": "Unit_Under-9",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -940,13 +1003,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Operator_Under-1": {
             "title": "Operator_Under-1",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -956,13 +1026,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Operator_Under-2": {
             "title": "Operator_Under-2",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -972,13 +1049,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Operator_Under-3": {
             "title": "Operator_Under-3",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -988,13 +1072,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Operator_Under-4": {
             "title": "Operator_Under-4",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -1004,13 +1095,20 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           },
           "Stage_Under": {
             "title": "Stage_Under",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -1020,7 +1118,14 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Stack",
+                "position": "Top"
+              }
+            }
           }
         }
       }

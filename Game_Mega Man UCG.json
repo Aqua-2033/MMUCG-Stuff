@@ -763,7 +763,7 @@
             "title": "Item_Under-1",
             "isHidden": "no",
             "height": "2",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -773,7 +773,14 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Pile",
+                "position": "Top"
+              }
+            }
           },
           "Item_Under-2": {
             "title": "Item_Under-2",

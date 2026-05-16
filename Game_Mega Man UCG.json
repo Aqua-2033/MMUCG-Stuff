@@ -142,7 +142,9 @@
                   "content": [
                     {
                       "section": "Item_Under-1",
-                      "style": false
+                      "style": {
+                        "width": "9vh"
+                      }
                     },
                     {
                       "section": "Unit_Under-1",
@@ -190,7 +192,9 @@
                   "content": [
                     {
                       "section": "Stage_Under",
-                      "style": false
+                      "style": {
+                        "width": "9vh"
+                      }
                     },
                     {
                       "section": "Unit_Under-2",
@@ -238,7 +242,9 @@
                   "content": [
                     {
                       "section": "Item_Under-2",
-                      "style": false
+                      "style": {
+                        "width": "9vh"
+                      }
                     },
                     {
                       "section": "Unit_Under-3",

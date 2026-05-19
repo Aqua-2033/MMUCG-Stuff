@@ -1,24 +1,30 @@
 [
   {
   "title": "Blue Bomber",
-  "id": "8a41671c-4230-4982-8794-3b4c0281e1d6",
-  "cardCount": 61,
-  "createdAt": "2026-04-03T17:39:40.985Z",
-  "lastModifiedAt": "2026-04-03T17:50:11.457Z",
+  "id": "8df191e8-505c-4690-8cd4-c1b8f40a2db6",
+  "cardCount": 51,
+  "createdAt": "2026-05-19T15:07:07.005Z",
+  "lastModifiedAt": "2026-05-19T15:07:07.005Z",
   "game": "Mega Man Unnoficial Card Game",
   "format": [
     "Classic"
   ],
   "deckList": {
     "categoriesOrder": [
-      "Unit",
       "Stage",
+      "Unit",
       "Operator",
       "Item"
     ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD01-01"
+      }
+    ],
     "Unit": [
       {
-        "count": 4,
+        "count": 2,
         "id": "SD01-02"
       },
       {
@@ -26,11 +32,11 @@
         "id": "SD01-03"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD01-04"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD01-05"
       },
       {
@@ -38,11 +44,11 @@
         "id": "SD01-06"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD01-07"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD01-08"
       },
       {
@@ -56,12 +62,6 @@
       {
         "count": 4,
         "id": "SD01-11"
-      }
-    ],
-    "Stage": [
-      {
-        "count": 1,
-        "id": "SD01-01"
       }
     ],
     "Operator": [
@@ -84,11 +84,11 @@
         "id": "SD01-15"
       },
       {
-        "count": 3,
+        "count": 2,
         "id": "SD01-17"
       },
       {
-        "count": 3,
+        "count": 2,
         "id": "SD01-18"
       }
     ]
@@ -96,10 +96,10 @@
 },
   {
   "title": "Bursting Flames",
-  "id": "7b4a45b6-df42-499e-8990-9281f63bdde3",
-  "cardCount": 61,
-  "createdAt": "2026-04-03T17:50:21.477Z",
-  "lastModifiedAt": "2026-04-03T17:52:44.011Z",
+  "id": "984b32c2-8414-48da-ba92-0b82b93dc304",
+  "cardCount": 51,
+  "createdAt": "2026-05-19T15:09:42.972Z",
+  "lastModifiedAt": "2026-05-19T15:09:42.972Z",
   "game": "Mega Man Unnoficial Card Game",
   "format": [
     "Classic"
@@ -119,19 +119,19 @@
     ],
     "Unit": [
       {
-        "count": 4,
+        "count": 2,
         "id": "SD02-02"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD02-03"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD02-04"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD02-05"
       },
       {
@@ -139,7 +139,7 @@
         "id": "SD02-06"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD02-07"
       },
       {
@@ -175,8 +175,12 @@
     ],
     "Item": [
       {
-        "count": 3,
-        "id": "SD02-18"
+        "count": 1,
+        "id": "SD02-15"
+      },
+      {
+        "count": 2,
+        "id": "SD02-16"
       },
       {
         "count": 3,
@@ -184,17 +188,17 @@
       },
       {
         "count": 2,
-        "id": "SD02-16"
+        "id": "SD02-18"
       }
     ]
   }
 },
   {
   "title": "Lightning Battle",
-  "id": "52c59fba-7be8-438d-8d93-7c85c1a9e710",
-  "cardCount": 61,
-  "createdAt": "2026-04-03T20:43:15.466Z",
-  "lastModifiedAt": "2026-04-03T21:27:11.878Z",
+  "id": "73405bc3-5dc3-4e2b-9a2b-5e1db63d0b7e",
+  "cardCount": 51,
+  "createdAt": "2026-05-19T15:11:54.480Z",
+  "lastModifiedAt": "2026-05-19T15:11:54.480Z",
   "game": "Mega Man Unnoficial Card Game",
   "format": [
     "Classic"
@@ -214,19 +218,27 @@
     ],
     "Unit": [
       {
-        "count": 4,
+        "count": 3,
         "id": "SD03-02"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD03-03"
       },
       {
-        "count": 4,
+        "count": 2,
+        "id": "SD03-04"
+      },
+      {
+        "count": 2,
+        "id": "SD03-05"
+      },
+      {
+        "count": 2,
         "id": "SD03-06"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD03-07"
       },
       {
@@ -244,10 +256,6 @@
       {
         "count": 4,
         "id": "SD03-11"
-      },
-      {
-        "count": 2,
-        "id": "SD03-05"
       }
     ],
     "Operator": [
@@ -266,30 +274,30 @@
     ],
     "Item": [
       {
-        "count": 4,
+        "count": 2,
         "id": "SD03-15"
       },
       {
-        "count": 3,
+        "count": 2,
+        "id": "SD03-16"
+      },
+      {
+        "count": 2,
         "id": "SD03-17"
       },
       {
-        "count": 3,
+        "count": 2,
         "id": "SD03-18"
-      },
-      {
-        "count": 4,
-        "id": "SD03-16"
       }
     ]
   }
 },
   {
   "title": "Style Change",
-  "id": "3a8b0784-f94c-4f7b-be6f-609bad55c8e5",
-  "cardCount": 62,
-  "createdAt": "2026-05-12T01:17:17.851Z",
-  "lastModifiedAt": "2026-05-12T01:17:17.851Z",
+  "id": "1af8f3a6-2b35-4e23-a28b-411709c6a80d",
+  "cardCount": 52,
+  "createdAt": "2026-05-19T15:13:36.751Z",
+  "lastModifiedAt": "2026-05-19T15:13:36.751Z",
   "game": "Mega Man Unnoficial Card Game",
   "format": [
     "Classic"
@@ -298,9 +306,9 @@
     "categoriesOrder": [
       "Stage",
       "Unit",
-      "Extra Folder",
+      "Operator",
       "Item",
-      "Operator"
+      "Extra Folder"
     ],
     "Stage": [
       {
@@ -310,27 +318,23 @@
     ],
     "Unit": [
       {
-        "count": 4,
-        "id": "SD04-03"
-      },
-      {
-        "count": 4,
-        "id": "SD04-04"
-      },
-      {
-        "count": 4,
-        "id": "SD04-09"
+        "count": 3,
+        "id": "SD04-02"
       },
       {
         "count": 2,
-        "id": "SD04-02"
+        "id": "SD04-03"
+      },
+      {
+        "count": 3,
+        "id": "SD04-04"
       },
       {
         "count": 4,
         "id": "SD04-05"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD04-06"
       },
       {
@@ -342,6 +346,10 @@
         "id": "SD04-08"
       },
       {
+        "count": 2,
+        "id": "SD04-09"
+      },
+      {
         "count": 4,
         "id": "SD04-10"
       },
@@ -350,48 +358,48 @@
         "id": "SD04-11"
       }
     ],
-    "Extra Folder": [
-      {
-        "count": 1,
-        "id": "SD04-18"
-      }
-    ],
-    "Item": [
+    "Operator": [
       {
         "count": 3,
-        "id": "SD04-17"
+        "id": "SD04-12"
       },
-      {
-        "count": 4,
-        "id": "SD04-16"
-      }
-    ],
-    "Operator": [
       {
         "count": 4,
         "id": "SD04-13"
       },
       {
+        "count": 2,
+        "id": "SD04-14"
+      },
+      {
         "count": 4,
         "id": "SD04-15"
+      }
+    ],
+    "Item": [
+      {
+        "count": 3,
+        "id": "SD04-16"
       },
       {
-        "count": 4,
-        "id": "SD04-12"
-      },
+        "count": 2,
+        "id": "SD04-17"
+      }
+    ],
+    "Extra Folder": [
       {
-        "count": 4,
-        "id": "SD04-14"
+        "count": 1,
+        "id": "SD04-18"
       }
     ]
   }
 },
   {
   "title": "Jungle Warriors",
-  "id": "ea2a3f48-fa13-437d-a368-32b9ca784df6",
-  "cardCount": 61,
-  "createdAt": "2026-05-12T01:32:56.595Z",
-  "lastModifiedAt": "2026-05-12T01:32:56.595Z",
+  "id": "068d18e5-beab-4df8-b91e-598cd1673df2",
+  "cardCount": 51,
+  "createdAt": "2026-05-19T15:17:45.407Z",
+  "lastModifiedAt": "2026-05-19T15:19:28.845Z",
   "game": "Mega Man Unnoficial Card Game",
   "format": [
     "Classic"
@@ -415,7 +423,7 @@
         "id": "SD05-02"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD05-03"
       },
       {
@@ -423,11 +431,11 @@
         "id": "SD05-04"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD05-05"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD05-06"
       },
       {
@@ -435,7 +443,7 @@
         "id": "SD05-07"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD05-08"
       },
       {
@@ -467,19 +475,19 @@
     ],
     "Item": [
       {
-        "count": 3,
+        "count": 2,
         "id": "SD05-15"
       },
       {
-        "count": 2,
+        "count": 1,
         "id": "SD05-16"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD05-17"
       },
       {
-        "count": 3,
+        "count": 2,
         "id": "SD05-18"
       }
     ]
@@ -487,10 +495,10 @@
 },
   {
   "title": "Rogue Fighters",
-  "id": "1f1e3738-c9fb-451c-8410-c48689226e67",
-  "cardCount": 61,
-  "createdAt": "2026-05-12T01:34:13.734Z",
-  "lastModifiedAt": "2026-05-12T01:34:13.734Z",
+  "id": "dbe96f8c-47ed-4e0f-a0cd-ca64fbc06729",
+  "cardCount": 51,
+  "createdAt": "2026-05-19T15:21:02.060Z",
+  "lastModifiedAt": "2026-05-19T15:21:02.060Z",
   "game": "Mega Man Unnoficial Card Game",
   "format": [
     "Classic"
@@ -513,7 +521,7 @@
         "id": "SD06-02"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD06-03"
       },
       {
@@ -521,15 +529,15 @@
         "id": "SD06-04"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD06-05"
       },
       {
-        "count": 2,
+        "count": 1,
         "id": "SD06-06"
       },
       {
-        "count": 4,
+        "count": 2,
         "id": "SD06-07"
       },
       {
@@ -545,7 +553,7 @@
         "id": "SD06-10"
       },
       {
-        "count": 4,
+        "count": 3,
         "id": "SD06-11"
       },
       {
@@ -563,20 +571,20 @@
     ],
     "Item": [
       {
-        "count": 3,
+        "count": 2,
         "id": "SD06-15"
       },
       {
         "count": 3,
-        "id": "SD06-16"
-      },
-      {
-        "count": 2,
         "id": "SD06-17"
       },
       {
-        "count": 4,
+        "count": 1,
         "id": "SD06-18"
+      },
+      {
+        "count": 2,
+        "id": "SD06-16"
       }
     ]
   }

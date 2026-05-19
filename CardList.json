@@ -7785,7 +7785,7 @@
     "Skill/Equip Name": "Proto Shield"
   },
   "SD06-18": {
-    "id": "SD06-16",
+    "id": "SD06-18",
     "isToken": false,
     "face": {
       "front": {
@@ -7808,7 +7808,7 @@
     "Skill/Equip Name": "B. Chip: Interrupt"
   },
   "SD06-16": {
-    "id": "SD06-17",
+    "id": "SD06-16",
     "isToken": false,
     "face": {
       "front": {
@@ -7831,7 +7831,7 @@
     "Skill/Equip Name": "Super Buster"
   },
   "SD06-17": {
-    "id": "SD06-18",
+    "id": "SD06-17",
     "isToken": false,
     "face": {
       "front": {

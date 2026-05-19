@@ -6456,9 +6456,7 @@
       "Neutral"
     ],
     "Traits": "ACDC Town",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "SD04-02": {
     "id": "SD04-02",
@@ -6481,9 +6479,7 @@
       "Neutral"
     ],
     "Traits": "Virus",
-    "Skill/Equip Name": "B. Chip: Guard",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Guard"
   },
   "SD04-03": {
     "id": "SD04-03",
@@ -6506,9 +6502,7 @@
       "Neutral"
     ],
     "Traits": "Program",
-    "Skill/Equip Name": "E-mail Delivery",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "E-mail Delivery"
   },
   "SD04-04": {
     "id": "SD04-04",
@@ -6531,9 +6525,7 @@
       "Neutral"
     ],
     "Traits": "Net Navi",
-    "Skill/Equip Name": "Navi Customization",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Navi Customization"
   },
   "SD04-05": {
     "id": "SD04-05",
@@ -6556,9 +6548,7 @@
       "Neutral"
     ],
     "Traits": "Net Navi | ACDC Town",
-    "Skill/Equip Name": "Change.bat",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Change.bat"
   },
   "SD04-06": {
     "id": "SD04-06",
@@ -6581,9 +6571,7 @@
       "Neutral"
     ],
     "Traits": "Net Navi | ACDC Town",
-    "Skill/Equip Name": "B. Chip: Recovery +120",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Recovery +120"
   },
   "SD04-07": {
     "id": "SD04-07",
@@ -6606,9 +6594,7 @@
       "Aqua"
     ],
     "Traits": "Net Navi/Style Change | ACDC Town",
-    "Skill/Equip Name": "Aqua Shot",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Aqua Shot"
   },
   "SD04-08": {
     "id": "SD04-08",
@@ -6631,9 +6617,7 @@
       "Elec"
     ],
     "Traits": "Net Navi/Style Change | ACDC Town",
-    "Skill/Equip Name": "Zap Ring",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Zap Ring"
   },
   "SD04-09": {
     "id": "SD04-09",
@@ -6656,9 +6640,7 @@
       "Dark"
     ],
     "Traits": "Net Navi",
-    "Skill/Equip Name": "Illegal Purchase",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Illegal Purchase"
   },
   "SD04-10": {
     "id": "SD04-10",
@@ -6682,9 +6664,7 @@
       "Aqua"
     ],
     "Traits": "Net Navi/Style Change | ACDC Town",
-    "Skill/Equip Name": "Custom Bug",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Custom Bug"
   },
   "SD04-11": {
     "id": "SD04-11",
@@ -6707,9 +6687,7 @@
       "Ground"
     ],
     "Traits": "Net Navi | ACDC Town",
-    "Skill/Equip Name": "B. Chip: Geddon",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Geddon"
   },
   "SD04-12": {
     "id": "SD04-12",
@@ -6732,9 +6710,7 @@
       "Neutral"
     ],
     "Traits": "Human | ACDC Town",
-    "Skill/Equip Name": "Housework",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Housework"
   },
   "SD04-13": {
     "id": "SD04-13",
@@ -6757,9 +6733,7 @@
       "Neutral"
     ],
     "Traits": "Human/Net Op | ACDC Town",
-    "Skill/Equip Name": "B. Chip: Sword",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Sword"
   },
   "SD04-14": {
     "id": "SD04-14",
@@ -6782,9 +6756,7 @@
       "Neutral"
     ],
     "Traits": "Human/Net Op | ACDC Town",
-    "Skill/Equip Name": "B. Chip: Barrier",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Barrier"
   },
   "SD04-15": {
     "id": "SD04-15",
@@ -6807,9 +6779,7 @@
       "Neutral"
     ],
     "Traits": "Human | ACDC Town",
-    "Skill/Equip Name": "Hub.bat",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Hub.bat"
   },
   "SD04-16": {
     "id": "SD04-16",
@@ -6832,9 +6802,7 @@
       "Neutral"
     ],
     "Traits": "Sub Chip | Navi Era",
-    "Skill/Equip Name": "Mini Energy",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Mini Energy"
   },
   "SD04-17": {
     "id": "SD04-17",
@@ -6857,9 +6825,7 @@
       "Neutral"
     ],
     "Traits": "Battle Chip | Navi Era",
-    "Skill/Equip Name": "B. Chip: Bug Fix",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Bug Fix"
   },
   "SD04-18": {
     "id": "SD04-18",
@@ -6883,8 +6849,7 @@
     ],
     "Traits": "Battle Chip/Giga Chip | Navi Era",
     "Skill/Equip Name": "B. Chip: Folder Back",
-    "Giga Chip": true,
-    "Limited to 1": false
+    "cardLegality": "1"
   },
   "Token049": {
     "id": "Token049",
@@ -6907,9 +6872,7 @@
       "Neutral"
     ],
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "Token050": {
     "id": "Token050",
@@ -6930,9 +6893,7 @@
     "Set": "",
     "Element": false,
     "Traits": "",
-    "Skill/Equip Name": "Wound",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Wound"
   },
   "SD05-01": {
     "id": "SD05-01",
@@ -6955,9 +6916,7 @@
       "Wood"
     ],
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "SD05-02": {
     "id": "SD05-02",
@@ -6980,9 +6939,7 @@
       "Wood"
     ],
     "Traits": "Virus",
-    "Skill/Equip Name": "B. Chip: Dropdown",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Dropdown"
   },
   "SD05-03": {
     "id": "SD05-03",
@@ -7005,9 +6962,7 @@
       "Wood"
     ],
     "Traits": "Mechaniloid",
-    "Skill/Equip Name": "Tombort",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Tombort"
   },
   "SD05-04": {
     "id": "SD05-04",
@@ -7030,9 +6985,7 @@
       "Wood"
     ],
     "Traits": "Virus",
-    "Skill/Equip Name": "B. Chip: Snake Egg",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Snake Egg"
   },
   "SD05-05": {
     "id": "SD05-05",
@@ -7055,9 +7008,7 @@
       "Wood"
     ],
     "Traits": "Robot",
-    "Skill/Equip Name": "Path Obstruction",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Path Obstruction"
   },
   "SD05-06": {
     "id": "SD05-06",
@@ -7080,9 +7031,7 @@
       "Wood"
     ],
     "Traits": "Robot | Robot Masters",
-    "Skill/Equip Name": "Plant Barrier",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Plant Barrier"
   },
   "SD05-07": {
     "id": "SD05-07",
@@ -7105,9 +7054,7 @@
       "Wood"
     ],
     "Traits": "Net Navi | World Three",
-    "Skill/Equip Name": "Wild Rush",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Wild Rush"
   },
   "SD05-08": {
     "id": "SD05-08",
@@ -7130,9 +7077,7 @@
       "Wood"
     ],
     "Traits": "Robot | Wily Castle/Genesis Unit",
-    "Skill/Equip Name": "Illusion Dodge",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Illusion Dodge"
   },
   "SD05-09": {
     "id": "SD05-09",
@@ -7155,9 +7100,7 @@
       "Wood"
     ],
     "Traits": "Reploid/Maverick | Doppler Army/Limited",
-    "Skill/Equip Name": "Chain Spin",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Chain Spin"
   },
   "SD05-10": {
     "id": "SD05-10",
@@ -7180,9 +7123,7 @@
       "Wood"
     ],
     "Traits": "Robot | Robot Masters",
-    "Skill/Equip Name": "Silver Tomahawk",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Silver Tomahawk"
   },
   "SD05-11": {
     "id": "SD05-11",
@@ -7205,9 +7146,7 @@
       "Wood"
     ],
     "Traits": "Reploid/Maverick | Doppler Army/Limited",
-    "Skill/Equip Name": "Iron Tongue",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Iron Tongue"
   },
   "SD05-12": {
     "id": "SD05-12",
@@ -7230,9 +7169,7 @@
       "Neutral"
     ],
     "Traits": "Human | ACDC Town",
-    "Skill/Equip Name": "Busting Class",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Busting Class"
   },
   "SD05-13": {
     "id": "SD05-13",
@@ -7255,9 +7192,7 @@
       "Neutral"
     ],
     "Traits": "Reploid | Maverick Hunters",
-    "Skill/Equip Name": "Transfer Beam",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Transfer Beam"
   },
   "SD05-14": {
     "id": "SD05-14",
@@ -7280,9 +7215,7 @@
       "Wood"
     ],
     "Traits": "Human/Net Op | World Three",
-    "Skill/Equip Name": "Control Chip",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Control Chip"
   },
   "SD05-15": {
     "id": "SD05-15",
@@ -7305,9 +7238,7 @@
       "Neutral"
     ],
     "Traits": "Parts | Reploid Era",
-    "Skill/Equip Name": "Sub Tank",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Sub Tank"
   },
   "SD05-16": {
     "id": "SD05-16",
@@ -7330,9 +7261,7 @@
       "Neutral"
     ],
     "Traits": "Program/Navi Costumizer | Navi Era",
-    "Skill/Equip Name": "Under Shirt",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Under Shirt"
   },
   "SD05-17": {
     "id": "SD05-17",
@@ -7355,9 +7284,7 @@
       "Wood"
     ],
     "Traits": "Program/Navi Costumizer",
-    "Skill/Equip Name": "Jungle",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Jungle"
   },
   "SD05-18": {
     "id": "SD05-18",
@@ -7380,9 +7307,7 @@
       "Wood"
     ],
     "Traits": "Program | Navi Era",
-    "Skill/Equip Name": "Wood Armor",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Wood Armor"
   },
   "Token051": {
     "id": "Token051",
@@ -7405,9 +7330,7 @@
       "Neutral"
     ],
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "Token052": {
     "id": "Token052",
@@ -7428,9 +7351,7 @@
     "Set": "",
     "Element": false,
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "Token053": {
     "id": "Token053",
@@ -7451,9 +7372,7 @@
     "Set": "",
     "Element": false,
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "Token054": {
     "id": "Token054",
@@ -7474,9 +7393,7 @@
     "Set": "",
     "Element": false,
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "Token055": {
     "id": "Token055",
@@ -7499,9 +7416,7 @@
       "Neutral"
     ],
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "Token056": {
     "id": "Token056",
@@ -7522,9 +7437,7 @@
     "Set": "",
     "Element": false,
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "SD06-01": {
     "id": "SD06-01",
@@ -7547,9 +7460,7 @@
       "Dark"
     ],
     "Traits": "",
-    "Skill/Equip Name": "",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": ""
   },
   "SD06-02": {
     "id": "SD06-02",
@@ -7572,9 +7483,7 @@
       "Neutral"
     ],
     "Traits": "Virus",
-    "Skill/Equip Name": "B. Chip: Holy Panel",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Holy Panel"
   },
   "SD06-03": {
     "id": "SD06-03",
@@ -7597,9 +7506,7 @@
       "Neutral"
     ],
     "Traits": "Net Navi | Gospel",
-    "Skill/Equip Name": "Surprise Snip",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Surprise Snip"
   },
   "SD06-04": {
     "id": "SD06-04",
@@ -7622,9 +7529,7 @@
       "Neutral"
     ],
     "Traits": "Robot",
-    "Skill/Equip Name": "Big Bang Strike",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Big Bang Strike"
   },
   "SD06-05": {
     "id": "SD06-05",
@@ -7647,9 +7552,7 @@
       "Dark"
     ],
     "Traits": "Mechaniloid",
-    "Skill/Equip Name": "Scrap Possession",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Scrap Possession"
   },
   "SD06-06": {
     "id": "SD06-06",
@@ -7672,9 +7575,7 @@
       "Dark"
     ],
     "Traits": "Virus",
-    "Skill/Equip Name": "B. Chip: Aura Head",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Aura Head"
   },
   "SD06-07": {
     "id": "SD06-07",
@@ -7697,9 +7598,7 @@
       "Dark"
     ],
     "Traits": "Robot",
-    "Skill/Equip Name": "Gockroach S Nest",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Gockroach S Nest"
   },
   "SD06-08": {
     "id": "SD06-08",
@@ -7722,9 +7621,7 @@
       "Dark"
     ],
     "Traits": "Robot | Wily Castle",
-    "Skill/Equip Name": "High-speed Dash",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "High-speed Dash"
   },
   "SD06-09": {
     "id": "SD06-09",
@@ -7747,9 +7644,7 @@
       "Dark"
     ],
     "Traits": "Robot | Wily Castle",
-    "Skill/Equip Name": "Reggae's Shop",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Reggae's Shop"
   },
   "SD06-10": {
     "id": "SD06-10",
@@ -7772,9 +7667,7 @@
       "Dark"
     ],
     "Traits": "Net Navi | World Three",
-    "Skill/Equip Name": "Shining Meteor",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Shining Meteor"
   },
   "SD06-11": {
     "id": "SD06-11",
@@ -7797,9 +7690,7 @@
       "Dark"
     ],
     "Traits": "Robot | Wily Castle",
-    "Skill/Equip Name": "Booster Kick",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Booster Kick"
   },
   "SD06-12": {
     "id": "SD06-12",
@@ -7822,9 +7713,7 @@
       "Dark"
     ],
     "Traits": "Reploid/Maverick",
-    "Skill/Equip Name": "Swallow Counter",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Swallow Counter"
   },
   "SD06-13": {
     "id": "SD06-13",
@@ -7847,9 +7736,7 @@
       "Dark"
     ],
     "Traits": "Net Navi | World Three",
-    "Skill/Equip Name": "Gravity Drive",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Gravity Drive"
   },
   "SD06-14": {
     "id": "SD06-14",
@@ -7872,9 +7759,7 @@
       "Dark"
     ],
     "Traits": "Reploid/Maverick | Doppler Army",
-    "Skill/Equip Name": "Machine Gun",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Machine Gun"
   },
   "SD06-15": {
     "id": "SD06-15",
@@ -7897,9 +7782,7 @@
       "Neutral"
     ],
     "Traits": "Parts | Robot Era",
-    "Skill/Equip Name": "Proto Shield",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Proto Shield"
   },
   "SD06-18": {
     "id": "SD06-16",
@@ -7922,9 +7805,7 @@
       "Dark"
     ],
     "Traits": "Battle Chip | Navi Era",
-    "Skill/Equip Name": "B. Chip: Interrupt",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Interrupt"
   },
   "SD06-16": {
     "id": "SD06-17",
@@ -7947,9 +7828,7 @@
       "Dark"
     ],
     "Traits": "Parts | Robot Era",
-    "Skill/Equip Name": "Super Buster",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "Super Buster"
   },
   "SD06-17": {
     "id": "SD06-18",
@@ -7972,8 +7851,6 @@
       "Dark"
     ],
     "Traits": "Battle Chip | Navi Era",
-    "Skill/Equip Name": "B. Chip: Anubis",
-    "Giga Chip": false,
-    "Limited to 1": false
+    "Skill/Equip Name": "B. Chip: Anubis"
   }
 }

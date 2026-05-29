@@ -7852,5 +7852,437 @@
     ],
     "Traits": "Battle Chip | Navi Era",
     "Skill/Equip Name": "B. Chip: Anubis"
+  },
+  "CS03-001": {
+    "id": "CS03-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stage Select",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-001%20Stage%20Select.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stage Select",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Dr. Light's Lab",
+    "Skill/Equip Name": "",
+    "cardLegality": ""
+  },
+  "CS03-002": {
+    "id": "CS03-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ocean Base",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-002%20Ocean%20Base.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ocean Base",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": "",
+    "cardLegality": ""
+  },
+  "CS03-003": {
+    "id": "CS03-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dopple Town",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-003%20Dopple%20Town.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dopple Town",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Doppler Army",
+    "Skill/Equip Name": "",
+    "cardLegality": ""
+  },
+  "CS03-004": {
+    "id": "CS03-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kotobuki",
+        "type": "Stage",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-004%20Kotobuki.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kotobuki",
+    "type": "Stage",
+    "cost": 0,
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Gospel",
+    "Skill/Equip Name": "",
+    "cardLegality": ""
+  },
+  "CS03-005": {
+    "id": "CS03-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Froshell",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-005%20Froshell.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Froshell",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Iron Shield",
+    "cardLegality": ""
+  },
+  "CS03-006": {
+    "id": "CS03-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rush",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-006%20Rush.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rush (CS03)",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot | Dr. Light's Lab",
+    "Skill/Equip Name": "Rush Jet",
+    "cardLegality": ""
+  },
+  "CS03-007": {
+    "id": "CS03-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Needle Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-007%20Needle%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Needle Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Needle Cannon",
+    "cardLegality": ""
+  },
+  "CS03-008": {
+    "id": "CS03-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GateMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-008%20GateMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "GateMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Gate Soldiers",
+    "cardLegality": ""
+  },
+  "CS03-009": {
+    "id": "CS03-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Top Man",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-009%20Top%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Top Man",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Top Spin",
+    "cardLegality": ""
+  },
+  "CS03-010": {
+    "id": "CS03-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "QuickMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-010%20QuickMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "QuickMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi | Gospel",
+    "Skill/Equip Name": "Quick Boomerang",
+    "cardLegality": ""
+  },
+  "CS03-011": {
+    "id": "CS03-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crash Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-011%20Crash%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crash Man",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Crash Bomb",
+    "cardLegality": ""
+  },
+  "CS03-012": {
+    "id": "CS03-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mega Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-012%20Mega%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Man (CS03)",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot | Dr. Light's Lab",
+    "Skill/Equip Name": "Weapon Get",
+    "cardLegality": ""
+  },
+  "CS03-013": {
+    "id": "CS03-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ride Armor DRA-00",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-013%20Ride%20Armor%20DRA-00.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ride Armor DRA-00",
+    "type": "Unit",
+    "cost": "8",
+    "Integrity": "10",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Machine",
+    "Skill/Equip Name": "Dash Punch",
+    "cardLegality": ""
+  },
+  "CS03-014": {
+    "id": "CS03-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flamey",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-014%20Flamey.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamey",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Line Out",
+    "cardLegality": ""
+  },
+  "CS03-015": {
+    "id": "CS03-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MetFire",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-015%20MetFire.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "MetFire",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Meteor",
+    "cardLegality": ""
+  },
+  "CS03-016": {
+    "id": "CS03-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "X",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-016%20X.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "X (CS03)",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Reploid | Maverick Hunters",
+    "Skill/Equip Name": "Rising Fire",
+    "cardLegality": ""
+  },
+  "CS03-017": {
+    "id": "CS03-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burn Dinorex",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-017%20Burn%20Dinorex.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burn Dinorex",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Reploid/Maverick | Reploid",
+    "Skill/Equip Name": "Ground Fire",
+    "cardLegality": ""
+  },
+  "CS03-018": {
+    "id": "CS03-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mecha Dragon",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-018%20Mecha%20Dragon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mecha Dragon",
+    "type": "Unit",
+    "cost": "8",
+    "Integrity": "15",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Robot | Wily Castle",
+    "Skill/Equip Name": "Fireball Volley",
+    "cardLegality": ""
   }
 }

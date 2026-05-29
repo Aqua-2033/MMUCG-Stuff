@@ -559,7 +559,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fishy",
+    "name": "Fishy (SD02)",
     "type": "Unit",
     "cost": "3",
     "Integrity": "5",
@@ -1133,7 +1133,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Doppler (SD03)",
+    "name": "Dr. Doppler",
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
@@ -8587,7 +8587,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Doppler (CS03)",
+    "name": "Dr. Doppler",
     "type": "Unit",
     "cost": "7",
     "Integrity": "11",
@@ -8718,6 +8718,225 @@
     ],
     "Traits": "Net Navi/Style Change | ACDC Town",
     "Skill/Equip Name": "Lead Tornado",
+    "cardLegality": ""
+  },
+  "CS03-037": {
+    "id": "CS03-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dust Man",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-037%20Dust%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dust Man",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Dust Crusher",
+    "cardLegality": ""
+  },
+  "CS03-038": {
+    "id": "CS03-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravity Beetle",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-038%20Gravity%20Beetle.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gravity Beetle",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Dark",
+      "Elec"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Gravity Well",
+    "cardLegality": ""
+  },
+  "CS03-039": {
+    "id": "CS03-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toxic Seahorse",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-039%20Toxic%20Seahorse.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toxic Seahorse",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS03 - Gospel of Destruction",
+    "Element": [
+      "Dark",
+      "Aqua"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Acid Burst",
+    "cardLegality": ""
+  },
+  "CS03-040": {
+    "id": "CS03-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gemini Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-040%20Gemini%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gemini Man",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Gemini Laser",
+    "cardLegality": ""
+  },
+  "CS03-041": {
+    "id": "CS03-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bass.EXE",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-041%20Bass.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bass.EXE",
+    "type": "Unit",
+    "cost": "7",
+    "Integrity": "14",
+    "Set": "CS03 - Gospel of Destruction",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Get Ability",
+    "cardLegality": ""
+  },
+  "CS03-042": {
+    "id": "CS03-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fishy",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-042%20Fishy.jpg?raw=truehttps://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-042%20Fishy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fishy (CS03)",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Dash Attack",
+    "cardLegality": ""
+  },
+  "CS03-043": {
+    "id": "CS03-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Storm Owl",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-043%20Storm%20Owl.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Storm Owl",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Reploid/Maverick | Reploid",
+    "Skill/Equip Name": "Double Cyclone",
+    "cardLegality": ""
+  },
+  "CS03-044": {
+    "id": "CS03-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jet Stingray",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-044%20Jet%20Stingray.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jet Stingray",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind",
+      "Aqua"
+    ],
+    "Traits": "Reploid/Maverick | Repliforce",
+    "Skill/Equip Name": "EX Skill: Hienkyaku",
+    "cardLegality": ""
+  },
+  "CS03-045": {
+    "id": "CS03-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Air Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-045%20Air%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Air Man",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Air Shooter",
     "cardLegality": ""
   }
 }

@@ -1133,7 +1133,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Doppler",
+    "name": "Dr. Doppler (SD03)",
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
@@ -8587,7 +8587,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Doppler",
+    "name": "Dr. Doppler (CS03)",
     "type": "Unit",
     "cost": "7",
     "Integrity": "11",

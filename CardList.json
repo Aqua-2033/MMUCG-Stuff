@@ -8284,5 +8284,440 @@
     "Traits": "Robot | Wily Castle",
     "Skill/Equip Name": "Fireball Volley",
     "cardLegality": ""
+  },
+  "CS03-019": {
+    "id": "CS03-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ice Wing",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-019%20Ice%20Wing.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ice Wing",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Ground Freeze",
+    "cardLegality": ""
+  },
+  "CS03-020": {
+    "id": "CS03-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snow Rider",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-020%20Snow%20Rider.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snow Rider",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Reploid",
+    "Skill/Equip Name": "Snow Glider",
+    "cardLegality": ""
+  },
+  "CS03-021": {
+    "id": "CS03-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ToadMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-021%20ToadMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "ToadMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua",
+      "Elec"
+    ],
+    "Traits": "Net Navi | Team Colonel",
+    "Skill/Equip Name": "Shocking Melody",
+    "cardLegality": ""
+  },
+  "CS03-022": {
+    "id": "CS03-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BubbleMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-022%20BubbleMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "BubbleMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Aqua Shot",
+    "cardLegality": ""
+  },
+  "CS03-023": {
+    "id": "CS03-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crush Crawfish",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-023%20Crush%20Crawfish.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crush Crawfish",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Spinning Blade",
+    "cardLegality": ""
+  },
+  "CS03-024": {
+    "id": "CS03-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FreezeMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-024%20FreezeMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "FreezeMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua",
+      "Dark"
+    ],
+    "Traits": "Net Navi | Gospel",
+    "Skill/Equip Name": "Icicle Fall",
+    "cardLegality": ""
+  },
+  "CS03-025": {
+    "id": "CS03-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CWU-01P",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-025%20CWU-01P.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "CWU-01P",
+    "type": "Unit",
+    "cost": "7",
+    "Integrity": "13",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Robot | WIly Castle",
+    "Skill/Equip Name": "Aquatic Defense System",
+    "cardLegality": ""
+  },
+  "CS03-026": {
+    "id": "CS03-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magneaker",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-026%20Magneaker.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magneaker",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Magnet Bomb",
+    "cardLegality": ""
+  },
+  "CS03-027": {
+    "id": "CS03-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bit",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-027%20Bit.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bit",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army/Nightmare Police",
+    "Skill/Equip Name": "Charge Slash",
+    "cardLegality": ""
+  },
+  "CS03-028": {
+    "id": "CS03-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Byte",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-028%20Byte.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Byte",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Town/Nightmare Police",
+    "Skill/Equip Name": "Gravity Shot",
+    "cardLegality": ""
+  },
+  "CS03-029": {
+    "id": "CS03-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MagnetMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-029%20MagnetMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "MagnetMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Net Navi | Gospel",
+    "Skill/Equip Name": "Mag Ball",
+    "cardLegality": ""
+  },
+  "CS03-030": {
+    "id": "CS03-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boobeam Trap",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-030%20Boobeam%20Trap.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boobeam Trap",
+    "type": "Unit",
+    "cost": "7",
+    "Integrity": "4",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Machine | WIly Castle",
+    "Skill/Equip Name": "Boobeam Beam",
+    "cardLegality": ""
+  },
+  "CS03-031": {
+    "id": "CS03-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Doppler",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-031%20Dr.%20Doppler.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Doppler",
+    "type": "Unit",
+    "cost": "7",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec",
+      "Fire"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Burning Charge",
+    "cardLegality": ""
+  },
+  "CS03-032": {
+    "id": "CS03-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "KillPlant",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-032%20KillPlant.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "KillPlant",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Tree Bomb",
+    "cardLegality": ""
+  },
+  "CS03-033": {
+    "id": "CS03-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monking",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-033%20Monking.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monking",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Pounce",
+    "cardLegality": ""
+  },
+  "CS03-034": {
+    "id": "CS03-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SnakeMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-034%20SnakeMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "SnakeMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Snake Arrow",
+    "cardLegality": ""
+  },
+  "CS03-035": {
+    "id": "CS03-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spike Rosered",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-035%20Spike%20Rosered.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spike Rosered",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid/Maverick",
+    "Skill/Equip Name": "Spike Ball",
+    "cardLegality": ""
+  },
+  "CS03-036": {
+    "id": "CS03-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "WoodShield Style",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-036%20WoodShield%20Style.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "WoodShield Style",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Net Navi/Style Change | ACDC Town",
+    "Skill/Equip Name": "Lead Tornado",
+    "cardLegality": ""
   }
 }

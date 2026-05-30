@@ -1133,7 +1133,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Doppler",
+    "name": "Dr. Doppler (SD03)",
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
@@ -8587,7 +8587,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Doppler",
+    "name": "Dr. Doppler (CS03)",
     "type": "Unit",
     "cost": "7",
     "Integrity": "11",
@@ -9372,6 +9372,222 @@
     ],
     "Traits": "Human/Net Op",
     "Skill/Equip Name": "Wind God's Wrath",
+    "cardLegality": ""
+  },
+  "CS03-064": {
+    "id": "CS03-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Princess Pride",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-064%20Princess%20Pride.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Princess Pride",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Human/Net Op | Gospel",
+    "Skill/Equip Name": "Fortified Castle",
+    "cardLegality": ""
+  },
+  "CS03-065": {
+    "id": "CS03-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anti-Sword",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-065%20Anti-Sword.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anti-Sword",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Anti-Sword",
+    "cardLegality": ""
+  },
+  "CS03-066": {
+    "id": "CS03-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power Shield",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-066%20Power%20Shield.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Power Shield",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts | Robot Era",
+    "Skill/Equip Name": "Power Shield",
+    "cardLegality": ""
+  },
+  "CS03-067": {
+    "id": "CS03-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Life Sword",
+        "type": "Item",
+        "cost": "99",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-067%20Life%20Sword.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Sword",
+    "type": "Extra Folder",
+    "cost": "99",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Program Advance | Navi Era",
+    "Skill/Equip Name": "Life Sword",
+    "cardLegality": "1"
+  },
+  "CS03-068": {
+    "id": "CS03-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oil Body",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-068%20Oil%20Body.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oil Body",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Program/Navi Customizer | Navi Era",
+    "Skill/Equip Name": "Oil Body",
+    "cardLegality": ""
+  },
+  "CS03-069": {
+    "id": "CS03-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fish",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-069%20Fish.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fish",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Program/Navi Customizer | Navi Era",
+    "Skill/Equip Name": "Fish",
+    "cardLegality": ""
+  },
+  "CS03-070": {
+    "id": "CS03-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guts Shoot",
+        "type": "Item",
+        "cost": "99",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-070%20Guts%20Shoot.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guts Shoot",
+    "type": "Extra Folder",
+    "cost": "99",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Program Advance | Navi Era",
+    "Skill/Equip Name": "Guts Shoot",
+    "cardLegality": "1"
+  },
+  "CS03-071": {
+    "id": "CS03-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godkarmachine O Inari",
+        "type": "Unit",
+        "cost": "9",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-071%20Godkarmachine%20O%20Inari.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godkarmachine O Inari",
+    "type": "Unit",
+    "cost": "9",
+    "Integrity": "18",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army/Nightmare Police",
+    "Skill/Equip Name": "Rocket Shot",
+    "cardLegality": ""
+  },
+  "CS03-072": {
+    "id": "CS03-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gospel",
+        "type": "Unit",
+        "cost": "10",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-072%20Gospel.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gospel",
+    "type": "Extra Folder",
+    "cost": "10",
+    "Integrity": "20",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Multibug Organism | Gospel",
+    "Skill/Equip Name": "",
     "cardLegality": ""
   }
 }

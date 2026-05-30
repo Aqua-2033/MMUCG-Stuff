@@ -9155,5 +9155,223 @@
     "Traits": "Human/Net Op | Gospel",
     "Skill/Equip Name": "B. Chip: Fast Gauge",
     "cardLegality": ""
+  },
+  "CS03-055": {
+    "id": "CS03-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Famous",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-055%20Mr.%20Famous.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Famous",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Masterful Operation",
+    "cardLegality": ""
+  },
+  "CS03-056": {
+    "id": "CS03-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock & Roll",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-056%20Rock%20&%20Roll.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock & Roll",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Robot | Dr. Light's Lab",
+    "Skill/Equip Name": "Super Fighting Robot",
+    "cardLegality": ""
+  },
+  "CS03-057": {
+    "id": "CS03-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fyrefox",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-057%20Fyrefox.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fyrefox",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Human/Net Op | Team Protoman",
+    "Skill/Equip Name": "Heavy Fireworks",
+    "cardLegality": ""
+  },
+  "CS03-058": {
+    "id": "CS03-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ribitta",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-058%20Ribitta.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ribitta",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Aqua",
+      "Elec"
+    ],
+    "Traits": "Human/Net Op | Team Colonel",
+    "Skill/Equip Name": "Lengthy Interview",
+    "cardLegality": ""
+  },
+  "CS03-059": {
+    "id": "CS03-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nightmare Police",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-059%20Nightmare%20Police.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nightmare Police",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army/Nightmare Police",
+    "Skill/Equip Name": "Law Enforcement",
+    "cardLegality": ""
+  },
+  "CS03-060": {
+    "id": "CS03-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Gauss",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-060%20Mr.%20Gauss.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Gauss",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Human/Net Op | Gospel",
+    "Skill/Equip Name": "System Hijack",
+    "cardLegality": ""
+  },
+  "CS03-061": {
+    "id": "CS03-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mrs. Millions",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-061%20Mrs.%20Millions.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mrs. Millions",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Jewelry Shopping",
+    "cardLegality": ""
+  },
+  "CS03-062": {
+    "id": "CS03-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord Gospel",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-062%20Lord%20Gospel.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord Gospel",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Dark",
+      "Aqua"
+    ],
+    "Traits": "Human/Net Op | Gospel",
+    "Skill/Equip Name": "Server Overcharge",
+    "cardLegality": ""
+  },
+  "CS03-063": {
+    "id": "CS03-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilly",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-063%20Lilly.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilly",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Wind God's Wrath",
+    "cardLegality": ""
   }
 }

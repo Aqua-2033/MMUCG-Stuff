@@ -8785,7 +8785,7 @@
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
-    "Set": "CS03 - Gospel of Destruction",
+    "Set": "CS03 - Gospel of Oblivion",
     "Element": [
       "Dark",
       "Aqua"
@@ -8834,7 +8834,7 @@
     "type": "Unit",
     "cost": "7",
     "Integrity": "14",
-    "Set": "CS03 - Gospel of Destruction",
+    "Set": "CS03 - Gospel of Oblivion",
     "Element": [
       "Dark"
     ],
@@ -8937,6 +8937,223 @@
     ],
     "Traits": "Robot | Robot Masters",
     "Skill/Equip Name": "Air Shooter",
+    "cardLegality": ""
+  },
+  "CS03-046": {
+    "id": "CS03-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spiral Pegasus",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-046%20Spiral%20Pegasus.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiral Pegasus",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Reploid/Maverick | Repliforce",
+    "Skill/Equip Name": "Wing Spiral",
+    "cardLegality": ""
+  },
+  "CS03-047": {
+    "id": "CS03-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "WindMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-047%20WindMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "WindMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Round Tornado",
+    "cardLegality": ""
+  },
+  "CS03-048": {
+    "id": "CS03-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crystal Snail",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-048%20Crystal%20Snail.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crystal Snail",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground",
+      "Aqua"
+    ],
+    "Traits": "Reploid/Maverick | Sigma's Rebellion",
+    "Skill/Equip Name": "Crystal Hunter",
+    "cardLegality": ""
+  },
+  "CS03-049": {
+    "id": "CS03-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "DrillMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-049%20DrillMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "DrillMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Drill Drive",
+    "cardLegality": ""
+  },
+  "CS03-050": {
+    "id": "CS03-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hard Man",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-050%20Hard%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hard Man",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Hard Knuckle",
+    "cardLegality": ""
+  },
+  "CS03-051": {
+    "id": "CS03-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Punk.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-051%20Punk.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Punk.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Punk Chain",
+    "cardLegality": ""
+  },
+  "CS03-052": {
+    "id": "CS03-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "KnightMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-052%20KnightMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "KnightMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Net Navi | Gospel",
+    "Skill/Equip Name": "Royal Wrecking Ball",
+    "cardLegality": ""
+  },
+  "CS03-053": {
+    "id": "CS03-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tunnel Rhino",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-053%20Tunnel%20Rhino.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tunnel Rhino",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Tornado Fang",
+    "cardLegality": ""
+  },
+  "CS03-054": {
+    "id": "CS03-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Speedy Dave",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS03%20-%20Gospel%20of%20Oblivion/CS03-054%20Speedy%20Dave.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Speedy Dave",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "CS03 - Gospel of Oblivion",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | Gospel",
+    "Skill/Equip Name": "B. Chip: Fast Gauge",
     "cardLegality": ""
   }
 }

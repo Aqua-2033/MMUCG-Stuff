@@ -6848,7 +6848,8 @@
       "Neutral"
     ],
     "Traits": "Battle Chip/Giga Chip | Navi Era",
-    "Skill/Equip Name": "B. Chip: Folder Back"
+    "Skill/Equip Name": "B. Chip: Folder Back",
+    "cardLegality": "1"
   },
   "Token049": {
     "id": "Token049",
@@ -9466,7 +9467,8 @@
       "Neutral"
     ],
     "Traits": "Program Advance | Navi Era",
-    "Skill/Equip Name": "Life Sword"
+    "Skill/Equip Name": "Life Sword",
+    "cardLegality": "1"
   },
   "CS03-068": {
     "id": "CS03-068",
@@ -9537,7 +9539,8 @@
       "Ground"
     ],
     "Traits": "Program Advance | Navi Era",
-    "Skill/Equip Name": "Guts Shoot"
+    "Skill/Equip Name": "Guts Shoot",
+    "cardLegality": "1"
   },
   "CS03-071": {
     "id": "CS03-071",

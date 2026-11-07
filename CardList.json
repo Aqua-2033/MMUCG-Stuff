@@ -5382,14 +5382,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Wind Box",
+        "name": "WindBox",
         "type": "Unit",
         "cost": "3",
         "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-036%20Wind%20Box.jpg?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Wind Box",
+    "name": "WindBox",
     "type": "Unit",
     "cost": "3",
     "Integrity": "9",

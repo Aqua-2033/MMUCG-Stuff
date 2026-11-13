@@ -82,7 +82,7 @@
     "name": "Roll",
     "type": "Unit",
     "cost": "2",
-    "Integrity": "3",
+    "Integrity": "4",
     "Set": "SD01 - Blue Bomber",
     "Element": [
       "Neutral"

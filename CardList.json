@@ -8833,7 +8833,7 @@
     "name": "Bass.EXE",
     "type": "Unit",
     "cost": "7",
-    "Integrity": "14",
+    "Integrity": "12",
     "Set": "CS03 - Gospel of Oblivion",
     "Element": [
       "Dark"

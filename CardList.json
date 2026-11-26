@@ -1238,247 +1238,6 @@
     "Skill/Equip Name": "Magnet Beam",
     "Traits": "Transportation | Robot Era"
   },
-  "Token015": {
-    "id": "Token015",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Bomb",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Bomb%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Bomb",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "1",
-    "Traits": false,
-    "Set": "",
-    "Element": [
-      "Fire"
-    ],
-    "Skill/Equip Name": ""
-  },
-  "Token018": {
-    "id": "Token018",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Copipi",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Copipi%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Copipi",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "2",
-    "Traits": false,
-    "Set": "",
-    "Element": [
-      "Wind"
-    ],
-    "Skill/Equip Name": ""
-  },
-  "Token020": {
-    "id": "Token020",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Elemental Planet",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20(Fire)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Elemental Planet (Fire)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "2",
-    "Traits": "",
-    "Set": "",
-    "Element": [
-      "Fire"
-    ],
-    "Skill/Equip Name": ""
-  },
-  "Token021": {
-    "id": "Token021",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Frozen",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Frozen%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Frozen",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token022": {
-    "id": "Token022",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Grass Panel",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Grass%20Panel%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Grass Panel",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token023": {
-    "id": "Token023",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Hidden",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Hidden%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hidden",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token033": {
-    "id": "Token033",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Sand Hand",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Sand%20Hand%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Sand Hand",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Traits": false,
-    "Set": "",
-    "Element": [
-      "Ground"
-    ],
-    "Skill/Equip Name": ""
-  },
-  "Token034": {
-    "id": "Token034",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Sea Panel",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Sea%20Panel%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Sea Panel",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token035": {
-    "id": "Token035",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Shadow Clone",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Shadow%20Clone%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Shadow Clone",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "1",
-    "Traits": false,
-    "Set": "",
-    "Element": [
-      "Neutral"
-    ],
-    "Skill/Equip Name": ""
-  },
-  "Token037": {
-    "id": "Token037",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Stunned",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Stunned%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Stunned",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token038": {
-    "id": "Token038",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Wrapped",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Wrapped%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wrapped",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
   "CS01-001": {
     "id": "CS01-001",
     "isToken": false,
@@ -5624,73 +5383,6 @@
     "Traits": "Virus | World Three",
     "Skill/Equip Name": ""
   },
-  "Token040": {
-    "id": "Token040",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Flame Mammoth Oil",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Flame%20Mammoth%20Oil%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Flame Mammoth Oil",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Set": "",
-    "Element": false,
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token041": {
-    "id": "Token041",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Elemental Planet",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20(Aqua)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Elemental Planet (Aqua)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "2",
-    "Set": "",
-    "Element": [
-      "Aqua"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token042": {
-    "id": "Token042",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Elemental Planet",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20(Elec)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Elemental Planet (Elec)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "2",
-    "Set": "",
-    "Element": [
-      "Elec"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
   "SD04-01": {
     "id": "SD04-01",
     "isToken": false,
@@ -6107,50 +5799,6 @@
     "Skill/Equip Name": "B. Chip: Folder Back",
     "cardLegality": "1"
   },
-  "Token049": {
-    "id": "Token049",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Buster Rod G",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Buster%20Rod%20G%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Buster Rod G (Token)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "10",
-    "Set": "",
-    "Element": [
-      "Neutral"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token050": {
-    "id": "Token050",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Wound%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wound",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Set": "",
-    "Element": false,
-    "Traits": "",
-    "Skill/Equip Name": "Wound"
-  },
   "SD05-01": {
     "id": "SD05-01",
     "isToken": false,
@@ -6564,136 +6212,6 @@
     ],
     "Traits": "Program | Navi Era",
     "Skill/Equip Name": "Wood Armor"
-  },
-  "Token051": {
-    "id": "Token051",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Anubis",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Anubis%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Anubis",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "4",
-    "Set": "",
-    "Element": [
-      "Neutral"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token052": {
-    "id": "Token052",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Bounty",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Bounty%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Bounty",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Set": "",
-    "Element": false,
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token053": {
-    "id": "Token053",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Capacity Mod",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Capacity%20Mod%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Capacity Mod",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Set": "",
-    "Element": false,
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token054": {
-    "id": "Token054",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Confusion",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Confusion%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Confusion",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Set": "",
-    "Element": false,
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token055": {
-    "id": "Token055",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Gockroach S",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Gockroach%20S%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gockroach S (Token)",
-    "type": false,
-    "cost": "0",
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Neutral"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token056": {
-    "id": "Token056",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Holy Panel",
-        "type": false,
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Holy%20Panel%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Holy Panel",
-    "type": false,
-    "cost": 0,
-    "Integrity": "",
-    "Set": "",
-    "Element": false,
-    "Traits": "",
-    "Skill/Equip Name": ""
   },
   "SD06-01": {
     "id": "SD06-01",
@@ -9093,6 +8611,211 @@
     "Element": [
       "Neutral"
     ],
+    "Skill/Equip Name": ""
+  },
+  "Token012": {
+    "id": "Token012",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Bomb",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Bomb%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bomb",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "1",
+    "Traits": false,
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token013": {
+    "id": "Token013",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Elemental Planet",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Elemental%20Planet%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elemental Planet",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Traits": "",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token014": {
+    "id": "Token014",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Shadow Clone",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Shadow%20Clone%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Clone",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "1",
+    "Traits": false,
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token015": {
+    "id": "Token015",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Copipi",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Copipi%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Copipi",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Traits": false,
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token016": {
+    "id": "Token016",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Sand Hand",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Sand%20Hand%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sand Hand",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Traits": false,
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token017": {
+    "id": "Token017",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Buster Rod G",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Buster%20Rod%20G%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buster Rod G (Token)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "5",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token018": {
+    "id": "Token018",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Wound%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wound",
+    "type": false,
+    "cost": 0,
+    "Integrity": "",
+    "Set": "",
+    "Element": false,
+    "Traits": "",
+    "Skill/Equip Name": "Wound"
+  },
+  "Token019": {
+    "id": "Token019",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gockroach S",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Gockroach%20S%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gockroach S (Token)",
+    "type": false,
+    "cost": "0",
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token020": {
+    "id": "Token020",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Anubis",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Anubis%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anubis",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "4",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
     "Skill/Equip Name": ""
   }
 }

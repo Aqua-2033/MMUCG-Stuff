@@ -412,27 +412,6 @@
     "Skill/Equip Name": "Energy Tank",
     "Traits": "Consumable | Robot Era"
   },
-  "Token001": {
-    "id": "Token001",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Stone Cube",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Stone%20Cube%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Stone Cube",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "6",
-    "Traits": false,
-    "Element": [
-      "Neutral"
-    ]
-  },
   "SD02-01": {
     "id": "SD02-01",
     "isToken": false,
@@ -1259,281 +1238,6 @@
     "Skill/Equip Name": "Magnet Beam",
     "Traits": "Transportation | Robot Era"
   },
-  "Token002": {
-    "id": "Token002",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Telly",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Telly%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Telly",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "1",
-    "Element": [
-      "Neutral"
-    ],
-    "Set": "",
-    "Skill/Equip Name": ""
-  },
-  "Token003": {
-    "id": "Token003",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Remobit",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Remobit%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Remobit",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "1",
-    "Element": [
-      "Elec"
-    ],
-    "Set": "",
-    "Skill/Equip Name": ""
-  },
-  "Token004": {
-    "id": "Token004",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Aluminum Panel",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Aluminum%20Panel%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Aluminum Panel",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": 0,
-    "Traits": false,
-    "Element": false,
-    "Set": "",
-    "Skill/Equip Name": ""
-  },
-  "Token005": {
-    "id": "Token005",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Armor Mod",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Armor%20Mod%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Armor Mod",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token006": {
-    "id": "Token006",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Memory Mod",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Memory%20Mod%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Memory Mod",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token007": {
-    "id": "Token007",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Energy Mod",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Energy%20Mod%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Energy Mod",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token008": {
-    "id": "Token008",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Barrier",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Barrier%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Barrier",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token009": {
-    "id": "Token009",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Aura",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Aura%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Aura",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token010": {
-    "id": "Token010",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Shield",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Shield%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Shield",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token011": {
-    "id": "Token011",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Burning",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Burning%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Burning",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token012": {
-    "id": "Token012",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Floating",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Floating%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Floating",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token013": {
-    "id": "Token013",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Can't Recharge",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Can't%20Recharge%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Can't Recharge",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token014": {
-    "id": "Token014",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Paralysis",
-        "type": "Extra Folder",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Paralysis%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Paralysis",
-    "type": "Extra Folder",
-    "cost": 0,
-    "Integrity": "",
-    "Traits": false,
-    "Set": "",
-    "Element": false,
-    "Skill/Equip Name": ""
-  },
   "Token015": {
     "id": "Token015",
     "isToken": true,
@@ -1576,29 +1280,6 @@
     "Traits": false,
     "Set": "",
     "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token017": {
-    "id": "Token017",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Candle",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Candle%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Candle",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Traits": false,
-    "Set": "",
-    "Element": [
-      "Fire"
-    ],
     "Skill/Equip Name": ""
   },
   "Token018": {
@@ -1842,29 +1523,6 @@
     "Element": false,
     "Skill/Equip Name": ""
   },
-  "Token029": {
-    "id": "Token029",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Fire)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Fire)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Traits": "",
-    "Set": "",
-    "Element": [
-      "Fire"
-    ],
-    "Skill/Equip Name": ""
-  },
   "Token030": {
     "id": "Token030",
     "isToken": true,
@@ -2060,29 +1718,6 @@
     "Traits": false,
     "Set": "",
     "Element": false,
-    "Skill/Equip Name": ""
-  },
-  "Token039": {
-    "id": "Token039",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Y. Devil Piece",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Y.%20Devil%20Piece%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Y. Devil Piece",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "2",
-    "Traits": false,
-    "Set": "",
-    "Element": [
-      "Neutral"
-    ],
     "Skill/Equip Name": ""
   },
   "CS01-001": {
@@ -6297,144 +5932,6 @@
     "Traits": "",
     "Skill/Equip Name": ""
   },
-  "Token043": {
-    "id": "Token043",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Aqua)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Aqua)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Aqua"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token044": {
-    "id": "Token044",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Elec)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Elec)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Elec"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token045": {
-    "id": "Token045",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Wood)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Wood)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Wood"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token046": {
-    "id": "Token046",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Dark)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Dark)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Dark"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token047": {
-    "id": "Token047",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Wind)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Wind)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Wind"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
-  "Token048": {
-    "id": "Token048",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Mini ColorMan",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20(Ground)%20Token.jpg?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mini ColorMan (Ground)",
-    "type": "Unit",
-    "cost": 0,
-    "Integrity": "3",
-    "Set": "",
-    "Element": [
-      "Ground"
-    ],
-    "Traits": "",
-    "Skill/Equip Name": ""
-  },
   "SD04-01": {
     "id": "SD04-01",
     "isToken": false,
@@ -9589,5 +9086,139 @@
     "Traits": "Multibug Organism | Gospel",
     "Skill/Equip Name": "",
     "cardLegality": ""
+  },
+  "Token001": {
+    "id": "Token001",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Stone Cube",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Stone%20Cube%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stone Cube",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "6",
+    "Traits": false,
+    "Element": [
+      "Neutral"
+    ]
+  },
+  "Token002": {
+    "id": "Token002",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Telly",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Telly%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Telly",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "1",
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "",
+    "Skill/Equip Name": ""
+  },
+  "Token003": {
+    "id": "Token003",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Remobit",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/Custom-MMUCG-Stuff/blob/main/Card%20Images/Tokens/Remobit%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remobit",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "1",
+    "Element": [
+      "Neutral"
+    ],
+    "Set": "",
+    "Skill/Equip Name": ""
+  },
+  "Token004": {
+    "id": "Token004",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Y. Devil Piece",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Y.%20Devil%20Piece%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Y. Devil Piece",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Traits": false,
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token005": {
+    "id": "Token005",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Candle",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Candle%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Candle",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Traits": false,
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
+  },
+  "Token006": {
+    "id": "Token006",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mini ColorMan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Mini%20ColorMan%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mini ColorMan",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Traits": "",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Skill/Equip Name": ""
   }
 }

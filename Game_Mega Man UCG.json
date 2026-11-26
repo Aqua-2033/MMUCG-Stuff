@@ -20,6 +20,11 @@
       "cost",
       "Element"
     ],
+    "costCurveIgnoredTypes": [
+      "Stage",
+      "Operator",
+      "Extra Folder"
+    ],
     "formats": [
       {
         "title": "Classic",
@@ -84,12 +89,45 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
-      "defaultNotes": "Setup Phase Procedures: Resource Step -> Maintenance Step -> Operator Step -> Main Step",
-      "tokens": [],
-      "countersStartingValues": [
-        0
+      "defaultNotes": "The player counters are used to keep track of the RAM limit.",
+      "tokens": [
+        {"name": "RAM Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/RAM%20Counter.png"}
       ],
-      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {"id": "Damage", "name": "Damage Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Damage%20Counter.png"},
+        {"id": "Armor+", "name": "Armor Mod +1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Arm%20Mod%20%2B1.png"},
+        {"id": "Armor-", "name": "Armor Mod -1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Arm%20Mod%20-1.png"},
+        {"id": "Memory+", "name": "Memory Mod +1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Mem%20Mod%20%2B1.png"},
+        {"id": "Memory-", "name": "Memory Mod -1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Mem%20Mod%20-1.png"},
+        {"id": "Capacity+", "name": "Capacity Mod +1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Cap%20Mod%20%2B1.png"},
+        {"id": "Capacity-", "name": "Capacity Mod -1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Cap%20Mod%20-1.png"},
+        {"id": "Energy+", "name": "Energy Mod +1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Ene%20Mod%20%2B1.png"},
+        {"id": "Energy-", "name": "Energy Mod -1", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Ene%20Mod%20-1.png"},
+        {"id": "Fire", "name": "Fire Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Fire%20Element.png"},
+        {"id": "Aqua", "name": "Aqua Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Aqua%20Element.png"},
+        {"id": "Elec", "name": "Elec Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Elec%20Element.png"},
+        {"id": "Wood", "name": "Wood Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Wood%20Element.png"},
+        {"id": "Dark", "name": "Dark Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Dark%20Element.png"},
+        {"id": "Wind", "name": "Wind Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Wind%20Element.png"},
+        {"id": "Ground", "name": "Ground Element", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Ground%20Element.png"},
+        {"id": "Aura", "name": "Aura Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Aura.png"},
+        {"id": "Barrier", "name": "Barrier Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Barrier.png"},
+        {"id": "Bounty", "name": "Bounty", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Bounty.png"},
+        {"id": "Burning", "name": "Burning", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Burning.png"},
+        {"id": "Cursor", "name": "Cursor", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Cursor.png"},
+        {"id": "Drained", "name": "Drained", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Drained.png"},
+        {"id": "Floating", "name": "Floating", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Floating.png"},
+        {"id": "Frozen", "name": "Frozen", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Frozen.png"},
+        {"id": "Hidden", "name": "Hidden", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Hidden.png"},
+        {"id": "Jamming", "name": "Jamming", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Jamming.png"},
+        {"id": "Magnetized", "name": "Magnetized", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Magnetized.png"},
+        {"id": "Paralysis", "name": "Paralysis", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Paralysis.png"},
+        {"id": "Poison", "name": "Poison", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Poison.png"},
+        {"id": "Shield", "name": "Shield", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Shield.png"},
+        {"id": "Wrapped", "name": "Wrapped", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Wrapped.png"}
+      ],
+      "countersStartingValues": [0],
+      "cardRotation": 90,
       "sections": {
         "customSections": [
           "Stage_Panel",
@@ -108,22 +146,22 @@
           "Unit_Panel-7",
           "Unit_Panel-8",
           "Unit_Panel-9",
-          "Stage_Under",
-          "Item_Under-1",
-          "Item_Under-2",
-          "Operator_Under-1",
-          "Operator_Under-2",
-          "Operator_Under-3",
-          "Operator_Under-4",
-          "Unit_Under-1",
-          "Unit_Under-2",
-          "Unit_Under-3",
-          "Unit_Under-4",
-          "Unit_Under-5",
-          "Unit_Under-6",
-          "Unit_Under-7",
-          "Unit_Under-8",
-          "Unit_Under-9",
+          "Stage_Loaded",
+          "Item_Loaded-1",
+          "Item_Loaded-2",
+          "Operator_Loaded-1",
+          "Operator_Loaded-2",
+          "Operator_Loaded-3",
+          "Operator_Loaded-4",
+          "Unit_Loaded-1",
+          "Unit_Loaded-2",
+          "Unit_Loaded-3",
+          "Unit_Loaded-4",
+          "Unit_Loaded-5",
+          "Unit_Loaded-6",
+          "Unit_Loaded-7",
+          "Unit_Loaded-8",
+          "Unit_Loaded-9",
           "Extra_Folder"
         ],
         "layout": {
@@ -142,21 +180,21 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Item_Under-1",
+                      "section": "Item_Loaded-1",
                       "style": {
                         "width": "11vh"
                       }
                     },
                     {
-                      "section": "Unit_Under-1",
+                      "section": "Unit_Loaded-1",
                       "style": false
                     },
                     {
-                      "section": "Unit_Under-4",
+                      "section": "Unit_Loaded-4",
                       "style": false
                     },
                     {
-                      "section": "Unit_Under-7",
+                      "section": "Unit_Loaded-7",
                       "style": false
                     }
                   ],
@@ -192,21 +230,21 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Stage_Under",
+                      "section": "Stage_Loaded",
                       "style": {
                         "width": "11vh"
                       }
                     },
                     {
-                      "section": "Unit_Under-2",
+                      "section": "Unit_Loaded-2",
                       "style": false
                     },
                     {
-                      "section": "Unit_Under-5",
+                      "section": "Unit_Loaded-5",
                       "style": false
                     },
                     {
-                      "section": "Unit_Under-8",
+                      "section": "Unit_Loaded-8",
                       "style": false
                     }
                   ],
@@ -242,21 +280,21 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Item_Under-2",
+                      "section": "Item_Loaded-2",
                       "style": {
                         "width": "11vh"
                       }
                     },
                     {
-                      "section": "Unit_Under-3",
+                      "section": "Unit_Loaded-3",
                       "style": false
                     },
                     {
-                      "section": "Unit_Under-6",
+                      "section": "Unit_Loaded-6",
                       "style": false
                     },
                     {
-                      "section": "Unit_Under-9",
+                      "section": "Unit_Loaded-9",
                       "style": false
                     }
                   ],
@@ -302,11 +340,11 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Operator_Under-1",
+                      "section": "Operator_Loaded-1",
                       "style": false
                     },
                     {
-                      "section": "Operator_Under-2",
+                      "section": "Operator_Loaded-2",
                       "style": false
                     }
                   ],
@@ -332,11 +370,11 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Operator_Under-3",
+                      "section": "Operator_Loaded-3",
                       "style": false
                     },
                     {
-                      "section": "Operator_Under-4",
+                      "section": "Operator_Loaded-4",
                       "style": false
                     }
                   ],
@@ -766,15 +804,15 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Item_Under-1": {
-            "title": "Item_Under-1",
+          "Item_Loaded-1": {
+            "title": "Item_Loaded-1",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Item Under 1",
+            "displayedTitle": "Item Loaded 1",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -789,15 +827,15 @@
               }
             }
           },
-          "Item_Under-2": {
-            "title": "Item_Under-2",
+          "Item_Loaded-2": {
+            "title": "Item_Loaded-2",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Item Under 2",
+            "displayedTitle": "Item Loaded 2",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -812,15 +850,15 @@
               }
             }
           },
-          "Unit_Under-1": {
-            "title": "Unit_Under-1",
+          "Unit_Loaded-1": {
+            "title": "Unit_Loaded-1",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 1",
+            "displayedTitle": "Unit Loaded 1",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -835,15 +873,15 @@
               }
             }
           },
-          "Unit_Under-2": {
-            "title": "Unit_Under-2",
+          "Unit_Loaded-2": {
+            "title": "Unit_Loaded-2",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 2",
+            "displayedTitle": "Unit Loaded 2",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -858,15 +896,15 @@
               }
             }
           },
-          "Unit_Under-3": {
-            "title": "Unit_Under-3",
+          "Unit_Loaded-3": {
+            "title": "Unit_Loaded-3",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 3",
+            "displayedTitle": "Unit Loaded 3",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -881,15 +919,15 @@
               }
             }
           },
-          "Unit_Under-4": {
-            "title": "Unit_Under-4",
+          "Unit_Loaded-4": {
+            "title": "Unit_Loaded-4",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 4",
+            "displayedTitle": "Unit Loaded 4",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -904,15 +942,15 @@
               }
             }
           },
-          "Unit_Under-5": {
-            "title": "Unit_Under-5",
+          "Unit_Loaded-5": {
+            "title": "Unit_Loaded-5",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 5",
+            "displayedTitle": "Unit Loaded 5",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -927,15 +965,15 @@
               }
             }
           },
-          "Unit_Under-6": {
-            "title": "Unit_Under-6",
+          "Unit_Loaded-6": {
+            "title": "Unit_Loaded-6",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 6",
+            "displayedTitle": "Unit Loaded 6",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -950,15 +988,15 @@
               }
             }
           },
-          "Unit_Under-7": {
-            "title": "Unit_Under-7",
+          "Unit_Loaded-7": {
+            "title": "Unit_Loaded-7",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 7",
+            "displayedTitle": "Unit Loaded 7",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -973,15 +1011,15 @@
               }
             }
           },
-          "Unit_Under-8": {
-            "title": "Unit_Under-8",
+          "Unit_Loaded-8": {
+            "title": "Unit_Loaded-8",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 8",
+            "displayedTitle": "Unit Loaded 8",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -996,15 +1034,15 @@
               }
             }
           },
-          "Unit_Under-9": {
-            "title": "Unit_Under-9",
+          "Unit_Loaded-9": {
+            "title": "Unit_Loaded-9",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Unit Under 9",
+            "displayedTitle": "Unit Loaded 9",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -1019,15 +1057,15 @@
               }
             }
           },
-          "Operator_Under-1": {
-            "title": "Operator_Under-1",
+          "Operator_Loaded-1": {
+            "title": "Operator_Loaded-1",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Operator Under 1",
+            "displayedTitle": "Operator Loaded 1",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -1042,15 +1080,15 @@
               }
             }
           },
-          "Operator_Under-2": {
-            "title": "Operator_Under-2",
+          "Operator_Loaded-2": {
+            "title": "Operator_Loaded-2",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Operator Under 2",
+            "displayedTitle": "Operator Loaded 2",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -1065,15 +1103,15 @@
               }
             }
           },
-          "Operator_Under-3": {
-            "title": "Operator_Under-3",
+          "Operator_Loaded-3": {
+            "title": "Operator_Loaded-3",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Operator Under 3",
+            "displayedTitle": "Operator Loaded 3",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -1088,15 +1126,15 @@
               }
             }
           },
-          "Operator_Under-4": {
-            "title": "Operator_Under-4",
+          "Operator_Loaded-4": {
+            "title": "Operator_Loaded-4",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Operator Under 4",
+            "displayedTitle": "Operator Loaded 4",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -1111,15 +1149,15 @@
               }
             }
           },
-          "Stage_Under": {
-            "title": "Stage_Under",
+          "Stage_Loaded": {
+            "title": "Stage_Loaded",
             "isHidden": "no",
             "height": "2",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Stage Under",
+            "displayedTitle": "Stage Loaded",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,

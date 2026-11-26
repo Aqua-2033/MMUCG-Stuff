@@ -124,6 +124,7 @@
         {"id": "Paralysis", "name": "Paralysis", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Paralysis.png"},
         {"id": "Poison", "name": "Poison", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Poison.png"},
         {"id": "Shield", "name": "Shield", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Shield.png"},
+        {"id": "Stunned", "name": "Stunned", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Stunned.png"},
         {"id": "Wrapped", "name": "Wrapped", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Wrapped.png"}
       ],
       "countersStartingValues": [0],

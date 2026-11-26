@@ -8582,11 +8582,11 @@
     "name": "Split Mushroom (Token)",
     "type": "Unit",
     "cost": 0,
-    "Integrity": "4",
+    "Integrity": "3",
     "Traits": false,
     "Set": "",
     "Element": [
-      "Wood"
+      "Neutral"
     ],
     "Skill/Equip Name": ""
   },

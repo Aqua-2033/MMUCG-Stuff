@@ -91,7 +91,7 @@
       },
       "defaultNotes": "The player counters are used to keep track of the RAM limit.",
       "tokens": [
-        {"name": "RAM Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/RAM%20Counter.png"}
+        {"name": "RAM Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/RAM%20Counter.png", "isUnique": false}
       ],
       "draggableTokens": [
         {"id": "Damage", "name": "Damage Counter", "image": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/Icons/Damage%20Counter.png"},

@@ -8818,6 +8818,98 @@
     "Traits": "",
     "Skill/Equip Name": ""
   },
+  "Token021": {
+    "id": "Token021",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Remote Gate",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Remote%20Gate%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remote Gate",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "4",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token022": {
+    "id": "Token022",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "CWU-01P",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/CWU-01P%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "CWU-01P (Token)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token023": {
+    "id": "Token023",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Boobeam Trap",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Boobeam%20Trap%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boobeam Trap (Token)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "2",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
+  "Token024": {
+    "id": "Token024",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gemini Man",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/Tokens/Gemini%20Man%20Token.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gemini Man (Token)",
+    "type": "Unit",
+    "cost": 0,
+    "Integrity": "3",
+    "Set": "",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "",
+    "Skill/Equip Name": ""
+  },
   "Panel01": {
     "id": "Panel01",
     "isToken": true,

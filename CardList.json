@@ -226,7 +226,10 @@
       "Neutral"
     ],
     "Skill/Equip Name": "Super Arm",
-    "Traits": "Robot | Robot Masters"
+    "Traits": "Robot | Robot Masters",
+    "Tokens": [
+      "Token001"
+    ]
   },
   "SD01-11": {
     "id": "SD01-11",
